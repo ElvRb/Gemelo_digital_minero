@@ -1,0 +1,232 @@
+/* Custom Industrial Dark/Light Modern Theme for Mining Digital Twin */
+:root {
+    --primary-color: #2563eb;
+    --success-color: #10b981;
+    --warning-color: #f59e0b;
+    --danger-color: #ef4444;
+    --card-bg: #ffffff;
+    --card-border: #e2e8f0;
+}
+
+/* Main Container */
+.main .block-container {
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+    max-width: 96%;
+}
+
+/* KPI Cards */
+.kpi-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 16px 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    margin-bottom: 12px;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+}
+
+.kpi-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #64748b;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+}
+
+.kpi-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.2;
+}
+
+.kpi-sub {
+    font-size: 0.78rem;
+    color: #94a3b8;
+    margin-top: 4px;
+}
+
+/* Badges */
+.badge-green {
+    background-color: #dcfce7;
+    color: #15803d;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.badge-yellow {
+    background-color: #fef9c3;
+    color: #854d0e;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.badge-red {
+    background-color: #fee2e2;
+    color: #b91c1c;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.badge-blue {
+    background-color: #dbeafe;
+    color: #1d4ed8;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+/* Section Banner */
+.section-banner {
+    background: linear-gradient(90deg, #1e293b 0%, #0f172a 100%);
+    color: #ffffff;
+    padding: 16px 24px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.section-banner h2 {
+    color: #ffffff !important;
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+.section-banner p {
+    color: #94a3b8;
+    margin: 4px 0 0 0;
+    font-size: 0.88rem;
+}
+
+/* Sidebar Styling - Matching Reference Design */
+section[data-testid="stSidebar"] {
+    background-color: #f8fafc !important;
+    border-right: 1px solid #e2e8f0 !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 9px !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label {
+    background-color: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 8px !important;
+    padding: 9px 14px !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04) !important;
+    margin: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    cursor: pointer !important;
+    transition: all 0.15s ease-in-out !important;
+    width: 100% !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label > div:first-child {
+    display: none !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label div[data-testid="stMarkdownContainer"] {
+    width: 100% !important;
+    text-align: center !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label div[data-testid="stMarkdownContainer"] p {
+    font-size: 0.92rem !important;
+    font-weight: 500 !important;
+    color: #334155 !important;
+    text-align: center !important;
+    margin: 0 !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label:hover {
+    border-color: #cbd5e1 !important;
+    background-color: #f1f5f9 !important;
+    transform: translateY(-1px);
+    box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.08) !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label:has(input:checked) {
+    border: 1.5px solid #2563eb !important;
+    background-color: #f0f7ff !important;
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.12) !important;
+}
+
+div[data-testid="stSidebar"] div[data-testid="stRadio"] > div[role="radiogroup"] > label:has(input:checked) div[data-testid="stMarkdownContainer"] p {
+    color: #1d4ed8 !important;
+    font-weight: 700 !important;
+}
+
+/* Sidebar Menu Buttons - Match White Cards */
+section[data-testid="stSidebar"] div.stButton {
+    margin-bottom: 7px !important;
+}
+
+section[data-testid="stSidebar"] div.stButton > button {
+    background-color: #ffffff !important;
+    border: 1px solid #d1d5db !important;
+    border-radius: 8px !important;
+    padding: 9px 12px !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04) !important;
+    color: #334155 !important;
+    font-size: 0.92rem !important;
+    font-weight: 500 !important;
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+    min-height: 42px !important;
+    transition: all 0.15s ease-in-out !important;
+}
+
+section[data-testid="stSidebar"] div.stButton > button p {
+    color: #334155 !important;
+    font-weight: 500 !important;
+    font-size: 0.92rem !important;
+    margin: 0 !important;
+    text-align: center !important;
+}
+
+section[data-testid="stSidebar"] div.stButton > button:hover {
+    border-color: #94a3b8 !important;
+    background-color: #f8fafc !important;
+    color: #0f172a !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.07) !important;
+    transform: translateY(-1px);
+}
+
+section[data-testid="stSidebar"] div.stButton > button[kind="primary"],
+section[data-testid="stSidebar"] div.stButton > button[data-testid="baseButton-primary"] {
+    background-color: #f0f7ff !important;
+    border: 1.8px solid #2563eb !important;
+    box-shadow: 0 2px 5px rgba(37, 99, 235, 0.15) !important;
+}
+
+section[data-testid="stSidebar"] div.stButton > button[kind="primary"] p,
+section[data-testid="stSidebar"] div.stButton > button[data-testid="baseButton-primary"] p {
+    color: #1d4ed8 !important;
+    font-weight: 700 !important;
+}
+
+section[data-testid="stSidebar"] div.stButton:last-of-type > button:hover {
+    border-color: #ef4444 !important;
+    color: #dc2626 !important;
+    background-color: #fef2f2 !important;
+}

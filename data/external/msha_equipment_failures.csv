@@ -1,0 +1,2501 @@
+MINE_ID,SUBUNIT,EQUIPMENT_TYPE,FAILURE_CAUSE,LOST_HOURS,PARTS_WAIT_HOURS,INSPECTION_YEAR
+SUR-03,Stope Production Face,Haulage LHD,Power Transmission Failure,30.8,70.6,2023
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,22.2,7.3,2025
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,6.5,86.2,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,44.1,0.4,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,52.2,11.5,2024
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,8.5,46.0,2023
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,49.6,22.6,2024
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,54.5,199.1,2025
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,23.1,1.5,2023
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,29.6,315.4,2023
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,15.6,46.9,2024
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,11.9,39.3,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,34.7,2.9,2024
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,51.5,15.3,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,29.5,124.1,2024
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,21.2,21.0,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,8.2,52.0,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,5.3,364.5,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,18.2,14.7,2025
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,5.2,41.2,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,24.2,57.2,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,15.6,8.6,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,38.0,7.7,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Power Transmission Failure,12.8,29.2,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,25.6,23.4,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,22.5,60.1,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Electrical Fault,4.1,3.5,2024
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,5.8,171.9,2025
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,12.2,0.7,2023
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,55.3,44.1,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,7.8,39.7,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,33.8,6.9,2023
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,91.0,7.9,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,41.5,75.5,2024
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,10.7,104.9,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,61.4,16.0,2024
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,6.3,27.7,2024
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,19.2,21.0,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,56.4,3.6,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,28.6,53.7,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,16.8,83.7,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Electrical Fault,12.3,17.5,2024
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,15.3,221.9,2025
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,21.1,3.8,2023
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,13.2,52.0,2025
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,87.3,28.5,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,68.9,28.4,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,53.1,29.4,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Bearing Seizure,17.1,14.4,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,32.2,60.3,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,60.0,61.4,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,49.6,15.9,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,16.8,86.6,2024
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,6.9,18.3,2025
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,5.9,62.0,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,24.7,6.2,2024
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,28.7,8.9,2025
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,49.5,18.2,2024
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,12.3,43.3,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,8.4,49.8,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,15.4,24.2,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,14.5,3.9,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,7.4,22.5,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,30.8,56.0,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,21.1,53.4,2023
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,34.6,8.4,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,14.4,0.4,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,13.5,67.1,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,19.4,5.4,2023
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,54.4,4.1,2025
+SUR-03,Stope Production Face,Mine Fan,Power Transmission Failure,5.0,0.1,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,43.2,27.2,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,15.1,33.6,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,50.3,48.7,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Bearing Seizure,42.9,16.9,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,14.3,59.5,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Electrical Fault,32.4,8.9,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,8.2,85.6,2024
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,58.4,40.7,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,16.4,42.1,2025
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,18.6,11.3,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,33.4,3.7,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Electrical Fault,45.3,30.0,2025
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,10.5,45.9,2025
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,30.0,4.8,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,15.9,144.3,2024
+SUR-03,Underground Haulageway,Haulage LHD,Bearing Seizure,15.0,188.8,2024
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,32.1,37.8,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,15.8,143.9,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Electrical Fault,14.2,9.5,2023
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,47.4,1.2,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,6.6,1.9,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,31.0,42.5,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,10.9,3.1,2025
+TITAN-01,Stope Production Face,Haulage LHD,Electrical Fault,4.4,152.8,2025
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,8.4,7.3,2025
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,26.4,17.4,2024
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,33.6,83.0,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,4.5,11.8,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,4.9,13.4,2025
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,59.9,49.3,2024
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,5.8,15.5,2025
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,57.9,11.8,2023
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,10.2,14.1,2023
+SUR-03,Stope Production Face,Haulage LHD,Electrical Fault,36.3,32.4,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,12.9,162.4,2025
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,51.0,85.7,2023
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,32.9,16.1,2025
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,16.3,21.7,2023
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,5.9,30.0,2025
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,35.7,185.3,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,27.0,9.1,2023
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,4.1,21.2,2024
+SUR-03,Pump Station,Mine Fan,Electrical Fault,4.2,62.7,2025
+TITAN-01,Stope Production Face,Mine Fan,Bearing Seizure,43.7,159.5,2024
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,11.2,8.1,2025
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,28.3,12.4,2024
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,18.5,12.3,2024
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,51.8,1.0,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,63.7,44.5,2023
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,141.9,53.3,2024
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,8.0,44.3,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,51.7,3.6,2025
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,11.4,3.4,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,25.4,11.3,2023
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,20.9,16.5,2025
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,4.4,74.1,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,68.8,8.3,2025
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,6.0,2.2,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,32.0,24.0,2023
+SUR-03,Pump Station,Slurry Pump,Electrical Fault,40.9,25.8,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,42.1,28.8,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,7.5,84.2,2024
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,18.2,5.0,2023
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,46.4,58.4,2025
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,12.7,19.8,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,19.1,17.8,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,11.6,129.4,2025
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,18.9,13.7,2023
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,56.5,49.4,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,18.6,15.4,2024
+SUR-03,Pump Station,Mine Fan,Bearing Seizure,23.5,34.0,2025
+ANDINA-02,Stope Production Face,Mine Fan,Hydraulic Burst,16.4,74.1,2024
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,18.8,102.5,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,4.4,87.6,2023
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,12.0,41.9,2023
+SUR-03,Underground Haulageway,Mine Fan,Hydraulic Burst,17.8,13.7,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Electrical Fault,28.1,52.0,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Electrical Fault,18.4,59.4,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,13.9,0.5,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,15.8,27.8,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Hydraulic Burst,10.7,89.0,2024
+SUR-03,Stope Production Face,Mine Fan,Bearing Seizure,66.0,32.3,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,21.7,17.9,2024
+TITAN-01,Pump Station,Continuous Haulage,Hydraulic Burst,4.3,98.6,2024
+SUR-03,Underground Haulageway,Slurry Pump,Hydraulic Burst,4.5,8.1,2025
+SUR-03,Stope Production Face,Slurry Pump,Power Transmission Failure,90.7,11.1,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,10.0,55.8,2025
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,43.3,20.9,2023
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,5.4,59.9,2023
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,65.0,8.2,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,53.8,14.0,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,24.3,8.2,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,4.2,146.7,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,11.2,25.0,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,16.5,19.7,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,18.8,0.7,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,12.5,8.0,2024
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,4.8,26.2,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Electrical Fault,25.4,3.4,2024
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,21.8,34.3,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Bearing Seizure,12.0,29.1,2023
+SUR-03,Underground Haulageway,Mine Fan,Hydraulic Burst,4.9,70.0,2024
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,129.3,51.8,2023
+SUR-03,Pump Station,Mine Fan,Bearing Seizure,19.8,28.3,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,37.9,12.2,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,18.4,62.3,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,5.1,59.1,2024
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,12.9,8.0,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,13.3,118.2,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,47.7,3.2,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,29.5,2.7,2025
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,11.7,10.0,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,86.4,115.3,2025
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,13.3,35.2,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,156.1,74.4,2023
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,137.5,12.4,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,9.1,32.3,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,13.0,21.3,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,20.0,84.4,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,30.2,1.1,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Power Transmission Failure,22.0,13.4,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,87.7,7.9,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,34.9,94.1,2023
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,9.7,30.3,2025
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,6.7,24.9,2023
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,32.0,28.7,2024
+SUR-03,Stope Production Face,Haulage LHD,Hydraulic Burst,8.1,171.5,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,41.2,91.1,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,12.9,58.8,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,13.5,16.5,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Electrical Fault,4.3,8.7,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,33.0,122.1,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,6.9,26.4,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,39.6,15.7,2024
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,20.2,30.6,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,40.8,120.0,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,25.0,23.5,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,6.1,39.7,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,38.8,78.0,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,5.7,26.7,2023
+TITAN-01,Stope Production Face,Slurry Pump,Bearing Seizure,19.6,12.8,2024
+SUR-03,Stope Production Face,Haulage LHD,Power Transmission Failure,8.5,250.0,2025
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,37.5,150.6,2024
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,62.2,89.0,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,23.4,56.0,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,22.0,16.8,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,38.7,117.4,2023
+TITAN-01,Stope Production Face,Haulage LHD,Electrical Fault,4.1,15.5,2025
+TITAN-01,Pump Station,Haulage LHD,Power Transmission Failure,64.0,77.4,2024
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,9.3,120.2,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Hydraulic Burst,103.4,44.3,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,36.0,78.0,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,39.7,75.3,2025
+TITAN-01,Stope Production Face,Mine Fan,Bearing Seizure,29.6,10.3,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,19.3,52.9,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,24.3,4.7,2025
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,5.1,34.0,2025
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,27.5,8.5,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,27.6,25.8,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,57.2,85.9,2025
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,20.9,209.1,2023
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,5.9,18.4,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,12.8,36.4,2024
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,29.6,34.4,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,10.6,148.2,2025
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,11.9,31.3,2024
+ANDINA-02,Drift / Ramp,Haulage LHD,Power Transmission Failure,45.2,57.6,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,25.1,122.3,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,21.0,22.4,2025
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,13.2,111.6,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,35.5,119.7,2025
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,12.1,128.1,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,36.1,15.1,2024
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,5.7,24.5,2024
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,52.0,98.1,2023
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,20.6,21.4,2023
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,17.9,44.0,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,26.7,6.0,2024
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,27.5,2.8,2023
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,7.4,25.5,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,37.9,41.5,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,11.7,23.9,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,60.5,41.4,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,44.9,34.7,2024
+SUR-03,Pump Station,Slurry Pump,Electrical Fault,14.2,55.6,2024
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,43.6,50.3,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Electrical Fault,14.6,26.5,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,6.6,26.6,2025
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,82.4,7.3,2023
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,29.4,34.6,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,18.6,42.5,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,16.2,31.1,2024
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,13.4,18.9,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,99.7,61.4,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,7.5,3.7,2023
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,13.1,118.0,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,19.9,1.0,2024
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,19.6,157.4,2024
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,19.3,29.8,2025
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,8.6,25.5,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,7.8,14.2,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,11.1,0.5,2025
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,63.0,15.4,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,6.9,5.6,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,38.0,51.8,2023
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,38.0,18.4,2025
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,43.8,70.0,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,56.2,11.1,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,11.3,110.6,2025
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,10.1,35.5,2024
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,19.0,5.8,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,11.4,24.6,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,35.8,11.1,2025
+TITAN-01,Drift / Ramp,Continuous Haulage,Electrical Fault,28.3,10.7,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,53.9,33.9,2024
+TITAN-01,Stope Production Face,Slurry Pump,Bearing Seizure,6.1,53.5,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Hydraulic Burst,63.2,116.5,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,12.3,33.5,2024
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,20.2,162.1,2024
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,17.9,136.4,2025
+TITAN-01,Pump Station,Slurry Pump,Bearing Seizure,38.3,96.1,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,17.1,33.3,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,73.0,7.3,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,59.9,11.8,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,53.4,50.1,2025
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,5.8,26.3,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,50.2,7.6,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,40.5,31.3,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,6.6,0.8,2024
+SUR-03,Stope Production Face,Continuous Haulage,Bearing Seizure,6.7,63.5,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,6.6,3.7,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,4.3,47.6,2024
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,23.1,75.6,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,91.0,6.8,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,17.9,35.1,2023
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,22.7,72.5,2024
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,86.6,14.5,2023
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,11.1,8.5,2024
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,50.9,19.7,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,23.0,38.8,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,24.2,41.1,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,14.1,6.7,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,23.8,29.4,2025
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,5.8,15.0,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,38.7,88.6,2025
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,12.0,18.1,2024
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,56.5,87.6,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,15.0,26.9,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,7.7,62.2,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,32.6,34.2,2025
+SUR-03,Stope Production Face,Mine Fan,Bearing Seizure,8.3,46.7,2025
+ANDINA-02,Pump Station,Haulage LHD,Bearing Seizure,37.6,24.1,2024
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,86.7,70.2,2025
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,40.3,26.6,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,4.5,29.4,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Bearing Seizure,26.0,35.0,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Hydraulic Burst,32.5,85.6,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,45.9,51.7,2023
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,5.4,20.6,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Hydraulic Burst,19.7,53.3,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,22.4,49.4,2024
+TITAN-01,Drift / Ramp,Mine Fan,Electrical Fault,8.4,128.3,2023
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,13.3,88.4,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,17.9,50.0,2024
+TITAN-01,Pump Station,Drill Jumbo,Bearing Seizure,47.0,20.1,2023
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,67.6,72.6,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Power Transmission Failure,27.8,41.1,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,16.1,202.5,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Power Transmission Failure,11.0,13.6,2025
+TITAN-01,Stope Production Face,Haulage LHD,Electrical Fault,100.6,4.0,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,101.8,3.5,2024
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,66.2,49.0,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,41.0,134.5,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,13.5,0.1,2024
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,44.8,62.1,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,16.6,51.4,2023
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,13.5,63.3,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,36.8,21.1,2024
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,6.0,82.4,2024
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,5.2,2.2,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,18.3,67.6,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,18.2,14.9,2023
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,58.2,31.1,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Electrical Fault,7.2,83.0,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,7.2,15.2,2025
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,7.8,9.8,2023
+SUR-03,Stope Production Face,Haulage LHD,Bearing Seizure,4.7,54.9,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Power Transmission Failure,5.8,36.6,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,29.9,34.7,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,17.6,14.2,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,38.6,1.7,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,121.7,25.3,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,29.8,5.4,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,5.2,113.5,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,6.7,2.0,2025
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,55.1,27.1,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,22.0,2.6,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,45.8,4.8,2025
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,50.6,51.6,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,67.0,50.0,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,75.8,1.6,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,23.4,0.1,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,14.0,3.9,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,82.4,69.1,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,23.0,42.2,2025
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,5.6,1.9,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,28.7,32.1,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,25.3,59.8,2024
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,58.3,97.5,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,29.4,130.5,2024
+SUR-03,Stope Production Face,Continuous Haulage,Bearing Seizure,14.3,19.0,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Bearing Seizure,85.3,7.0,2023
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,42.8,13.0,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,27.9,71.9,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,12.3,170.8,2024
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,15.2,30.1,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Power Transmission Failure,30.6,17.5,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,5.8,26.9,2023
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,11.1,17.5,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,34.0,14.2,2023
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,19.7,43.2,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,16.4,0.8,2024
+TITAN-01,Stope Production Face,Mine Fan,Bearing Seizure,7.9,14.4,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,18.0,52.0,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,39.3,1.6,2024
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,11.4,4.2,2025
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,4.1,16.7,2025
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,30.5,100.9,2024
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,90.4,69.5,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,26.4,1.1,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,7.1,33.4,2025
+SUR-03,Pump Station,Slurry Pump,Electrical Fault,13.3,15.4,2023
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,52.5,50.2,2025
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,10.4,61.4,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,26.5,95.4,2025
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,16.4,31.0,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,9.6,249.3,2025
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,44.3,187.7,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,36.6,102.6,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,30.0,41.1,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,10.5,24.4,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,6.5,21.8,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,24.6,0.6,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,23.4,13.8,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Power Transmission Failure,9.0,60.9,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,5.4,44.4,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,6.0,119.1,2023
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,122.3,2.5,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,40.7,8.1,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,65.2,74.7,2023
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,9.2,21.3,2023
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,81.6,6.0,2025
+TITAN-01,Stope Production Face,Slurry Pump,Bearing Seizure,7.7,270.8,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Hydraulic Burst,21.1,74.3,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,46.5,25.2,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,14.3,83.2,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,17.3,54.8,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,7.3,74.9,2025
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,7.1,81.0,2023
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,27.2,4.2,2024
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,31.0,46.8,2024
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,40.0,0.3,2023
+ANDINA-02,Pump Station,Haulage LHD,Bearing Seizure,23.5,2.1,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,28.9,112.5,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,4.3,36.0,2023
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,8.2,63.9,2024
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,104.7,87.5,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,5.9,143.4,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,31.3,97.7,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,8.6,31.7,2023
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,34.3,19.7,2024
+ANDINA-02,Drift / Ramp,Drill Jumbo,Power Transmission Failure,33.4,8.1,2025
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,10.4,24.5,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,11.5,21.9,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,29.5,39.4,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,15.9,52.6,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,9.2,183.9,2023
+SUR-03,Drift / Ramp,Mine Fan,Power Transmission Failure,35.6,62.6,2023
+TITAN-01,Pump Station,Slurry Pump,Bearing Seizure,8.0,49.5,2025
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,50.5,19.6,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,21.4,1.7,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,6.7,16.3,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,32.4,70.2,2024
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,21.6,11.0,2025
+SUR-03,Stope Production Face,Drill Jumbo,Bearing Seizure,12.5,59.8,2025
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,17.2,41.6,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,12.5,9.1,2025
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,11.3,14.6,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,8.3,32.9,2024
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,14.8,26.0,2024
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,10.9,72.4,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,31.6,63.6,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,31.6,41.0,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,20.7,82.9,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,40.1,39.7,2024
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,48.2,160.1,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,24.8,11.8,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,27.2,60.1,2024
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,12.0,22.2,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,58.1,15.7,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,4.6,9.5,2024
+SUR-03,Stope Production Face,Haulage LHD,Electrical Fault,14.3,38.6,2023
+TITAN-01,Pump Station,Slurry Pump,Bearing Seizure,34.7,11.6,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,6.0,10.7,2023
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,8.9,223.7,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,25.4,77.7,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,23.7,66.2,2025
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,36.2,75.8,2023
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,44.2,166.6,2024
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,7.3,40.9,2024
+ANDINA-02,Stope Production Face,Mine Fan,Hydraulic Burst,4.4,11.9,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,32.1,95.1,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,12.6,65.2,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,27.6,25.7,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,7.9,30.8,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Electrical Fault,19.2,25.4,2023
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,20.8,127.6,2023
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,25.1,20.2,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,21.3,158.9,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,20.4,115.7,2023
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,13.7,47.8,2023
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,5.8,41.6,2023
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,6.3,22.2,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,17.7,0.9,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,14.6,6.6,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,21.4,67.4,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,12.7,30.6,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,31.9,7.8,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,51.9,14.7,2024
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,12.5,141.8,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,9.1,22.0,2024
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,7.0,114.4,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,27.0,17.4,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,18.1,37.6,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,9.0,1.0,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,29.4,35.4,2025
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,7.9,48.6,2024
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,23.4,12.8,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,22.0,41.5,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,35.8,50.0,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,5.4,55.7,2025
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,56.5,71.9,2024
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,33.1,17.9,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Bearing Seizure,9.8,40.3,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,8.9,191.7,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,17.6,109.6,2023
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,44.8,146.4,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,48.4,23.4,2025
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,21.6,74.2,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,51.3,46.4,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,4.1,4.1,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,4.9,83.4,2023
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,62.3,54.3,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Hydraulic Burst,39.8,10.6,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,18.4,4.0,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,37.6,87.1,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,78.8,3.9,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,39.5,4.6,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,48.3,26.8,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,38.3,7.0,2024
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,8.4,117.6,2024
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,47.0,30.5,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,9.2,40.4,2025
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,57.6,126.4,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,18.7,36.3,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,31.1,20.9,2023
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,20.5,76.6,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,6.4,28.1,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,12.2,18.4,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Power Transmission Failure,102.8,61.7,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Power Transmission Failure,81.7,77.6,2023
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,13.3,75.3,2023
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,138.4,182.5,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,48.8,74.2,2024
+ANDINA-02,Drift / Ramp,Haulage LHD,Power Transmission Failure,26.7,70.5,2024
+TITAN-01,Pump Station,Continuous Haulage,Bearing Seizure,5.0,93.5,2025
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,59.6,0.0,2024
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,23.6,21.6,2023
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,52.7,64.2,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,47.2,43.9,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Bearing Seizure,47.0,9.4,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,32.7,17.4,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Power Transmission Failure,12.3,19.7,2023
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,13.8,40.3,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,12.9,85.5,2025
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,4.5,129.4,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,25.0,66.6,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Bearing Seizure,32.8,88.9,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,50.2,30.5,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,7.6,23.7,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,22.9,23.9,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,4.2,45.9,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,6.4,6.4,2025
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,5.3,41.6,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,35.0,52.5,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,6.0,27.7,2024
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,34.2,146.9,2025
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,10.9,45.0,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,54.4,11.9,2024
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,44.3,31.3,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,80.0,54.0,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,55.7,18.8,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,69.0,4.0,2023
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,51.0,42.0,2024
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,32.4,141.8,2024
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,8.5,31.9,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,11.6,113.5,2025
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,9.7,86.5,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,26.2,7.7,2025
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,20.8,59.1,2024
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,52.4,27.4,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,77.2,13.8,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,16.5,55.7,2023
+TITAN-01,Pump Station,Continuous Haulage,Hydraulic Burst,20.9,65.2,2024
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,89.4,9.5,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,11.8,118.0,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,41.7,66.8,2024
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,10.1,130.0,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,31.5,18.3,2023
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,11.0,134.5,2025
+SUR-03,Stope Production Face,Haulage LHD,Power Transmission Failure,55.6,22.1,2024
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,23.8,2.7,2025
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,8.9,69.1,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,10.1,58.4,2023
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,20.3,43.7,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Electrical Fault,82.2,32.3,2024
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,39.2,1.6,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,20.1,47.0,2025
+TITAN-01,Drift / Ramp,Continuous Haulage,Bearing Seizure,13.9,25.9,2025
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,23.1,39.4,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,37.1,26.9,2025
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,40.8,162.4,2024
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,13.4,44.5,2025
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,34.7,66.4,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,29.7,132.2,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,80.7,43.0,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,68.2,0.6,2024
+SUR-03,Drift / Ramp,Mine Fan,Power Transmission Failure,41.4,1.7,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,34.8,58.2,2024
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,11.7,15.7,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Power Transmission Failure,48.9,41.6,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,17.4,10.8,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,11.6,15.1,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Hydraulic Burst,15.6,33.7,2024
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,47.4,178.2,2023
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,7.9,46.0,2025
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,18.6,132.1,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,20.3,153.8,2025
+SUR-03,Underground Haulageway,Haulage LHD,Bearing Seizure,4.9,11.2,2025
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,9.2,17.9,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,46.1,70.5,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,46.6,96.8,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Electrical Fault,12.3,35.2,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,53.9,239.7,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,39.5,0.6,2024
+SUR-03,Stope Production Face,Drill Jumbo,Bearing Seizure,17.0,17.1,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,37.1,46.8,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,82.1,30.4,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,18.7,6.0,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,10.5,22.0,2024
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,72.3,1.2,2025
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,26.2,49.4,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,6.7,107.2,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,24.4,103.8,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,20.7,57.7,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,50.4,30.1,2024
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,22.2,34.4,2023
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,11.1,7.1,2023
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,31.0,20.0,2025
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,22.8,10.0,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,10.4,82.6,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,24.5,118.2,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,45.4,37.0,2024
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,4.7,62.5,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,27.9,6.2,2025
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,14.3,45.0,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,12.3,58.2,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,16.0,28.9,2025
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,14.0,13.4,2025
+SUR-03,Underground Haulageway,Mine Fan,Hydraulic Burst,46.8,100.7,2024
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,11.7,65.2,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Electrical Fault,35.7,110.5,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,6.4,81.9,2025
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,76.6,222.9,2023
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,27.4,10.2,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,33.4,4.4,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,12.5,19.7,2025
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,16.7,6.6,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Power Transmission Failure,10.1,35.5,2023
+SUR-03,Underground Haulageway,Mine Fan,Hydraulic Burst,68.7,48.1,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,20.1,41.4,2025
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,27.9,14.4,2025
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,35.8,115.0,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,15.1,1.0,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,34.6,20.5,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,31.0,60.9,2023
+SUR-03,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,33.4,69.9,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,20.1,25.8,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,15.6,0.8,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,10.0,46.2,2025
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,45.8,3.1,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,26.5,5.5,2023
+ANDINA-02,Pump Station,Continuous Haulage,Electrical Fault,18.1,50.4,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,73.2,18.0,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,5.2,20.5,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,49.6,32.0,2024
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,148.6,184.5,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,56.3,161.5,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,43.9,25.8,2025
+TITAN-01,Stope Production Face,Mine Fan,Power Transmission Failure,15.3,14.8,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,10.3,17.3,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,35.9,15.0,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,12.7,36.5,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,8.6,44.8,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,41.1,32.2,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,13.0,25.2,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,63.0,11.4,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,48.1,31.6,2023
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,49.2,20.0,2025
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,39.4,37.4,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,55.1,54.0,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,43.3,48.2,2024
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,26.1,29.8,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,12.4,39.0,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,56.6,16.1,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,48.1,1.2,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,19.4,47.1,2025
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,5.0,14.0,2025
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,28.4,53.1,2023
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,5.2,66.0,2023
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,66.6,118.9,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,82.3,152.3,2025
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,9.0,0.5,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,31.1,222.9,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,6.3,55.1,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,35.4,49.5,2025
+SUR-03,Pump Station,Slurry Pump,Electrical Fault,14.2,0.7,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,31.4,94.8,2024
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,15.2,7.5,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,7.8,87.2,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Bearing Seizure,16.5,0.8,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Hydraulic Burst,6.9,49.8,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,24.6,27.4,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,5.0,10.8,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,22.0,5.5,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,56.2,27.8,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,47.7,6.3,2023
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,55.4,32.0,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,65.2,47.1,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,6.6,84.3,2024
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,7.3,54.5,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,23.5,3.2,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,57.9,17.6,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Bearing Seizure,91.9,16.3,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Electrical Fault,5.1,118.3,2024
+TITAN-01,Pump Station,Haulage LHD,Power Transmission Failure,14.6,97.1,2025
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,9.7,22.2,2025
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,37.9,3.5,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,28.5,107.8,2023
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,7.1,105.2,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,19.9,92.6,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,31.8,89.5,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,40.2,31.4,2023
+SUR-03,Pump Station,Mine Fan,Hydraulic Burst,4.5,9.4,2025
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,57.1,31.2,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,24.2,32.8,2023
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,44.1,32.3,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,43.6,37.1,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,9.1,14.3,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,6.8,21.9,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,34.7,27.3,2023
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,8.1,6.7,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,49.5,29.2,2025
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,35.1,79.8,2023
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,48.3,84.5,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,12.5,25.5,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,13.1,35.1,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,30.7,1.6,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,4.8,53.9,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,35.1,24.9,2025
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,47.4,28.3,2024
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,16.9,99.3,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Electrical Fault,38.7,29.7,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Power Transmission Failure,8.6,1.0,2025
+SUR-03,Underground Haulageway,Haulage LHD,Power Transmission Failure,13.3,12.4,2025
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,91.9,31.0,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,107.0,26.5,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,21.2,94.5,2025
+SUR-03,Drift / Ramp,Mine Fan,Power Transmission Failure,69.3,37.5,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Bearing Seizure,21.8,56.2,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,12.3,30.4,2024
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,11.5,27.8,2023
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,67.7,28.4,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,8.5,25.4,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Hydraulic Burst,24.8,37.1,2024
+SUR-03,Stope Production Face,Mine Fan,Bearing Seizure,23.5,13.8,2023
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,36.3,106.4,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Bearing Seizure,20.6,19.4,2024
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,11.6,7.7,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,8.5,4.9,2023
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,27.3,0.6,2023
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,34.5,26.4,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,24.2,10.0,2023
+TITAN-01,Pump Station,Haulage LHD,Power Transmission Failure,36.2,1.1,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,7.7,35.2,2023
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,55.4,54.7,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,25.0,4.3,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,7.3,29.7,2024
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,18.9,65.3,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,48.7,204.2,2024
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,58.7,52.8,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,11.4,13.5,2023
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,33.8,60.5,2025
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,6.5,43.7,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,4.8,11.4,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Electrical Fault,23.7,91.4,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Power Transmission Failure,32.5,26.8,2025
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,42.1,156.9,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,14.0,61.6,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Electrical Fault,4.2,49.7,2023
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,19.7,62.6,2024
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,4.4,31.2,2023
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,6.3,33.8,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,13.5,91.4,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,17.8,54.8,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,11.9,109.2,2024
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,24.9,106.3,2024
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,5.4,180.0,2024
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,7.7,57.8,2023
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,32.5,33.5,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,7.7,8.7,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,28.5,58.7,2025
+ANDINA-02,Stope Production Face,Mine Fan,Electrical Fault,5.3,16.5,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,16.6,16.0,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,8.7,13.1,2025
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,6.8,99.9,2023
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,24.1,97.2,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,67.3,47.9,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,5.4,30.7,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,17.1,53.5,2023
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,33.5,44.9,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,18.9,25.8,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,43.4,22.9,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Power Transmission Failure,8.8,23.2,2025
+TITAN-01,Pump Station,Slurry Pump,Bearing Seizure,81.0,42.7,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,15.7,50.1,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,14.0,28.8,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,53.8,166.3,2024
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,23.9,4.2,2025
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,21.4,20.5,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,35.2,26.1,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,24.8,0.8,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Electrical Fault,8.3,21.8,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,30.9,15.4,2024
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,7.4,33.9,2024
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,43.3,19.7,2025
+ANDINA-02,Pump Station,Mine Fan,Hydraulic Burst,113.9,62.2,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,15.4,34.2,2025
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,18.1,6.7,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Bearing Seizure,5.1,66.6,2023
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,4.3,5.0,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Electrical Fault,65.0,87.7,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,7.3,128.6,2024
+SUR-03,Stope Production Face,Slurry Pump,Electrical Fault,18.2,18.7,2025
+SUR-03,Pump Station,Mine Fan,Hydraulic Burst,44.5,125.1,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,56.8,75.6,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,21.6,122.7,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,24.0,52.7,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,30.6,12.9,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,82.1,108.0,2023
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,26.2,9.8,2025
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,23.7,11.5,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,4.4,15.2,2025
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,6.0,17.4,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,24.7,34.7,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,70.1,60.0,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,52.4,125.1,2023
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,101.2,4.4,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,22.0,148.2,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,41.2,122.0,2024
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,48.0,2.7,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Bearing Seizure,29.1,21.4,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,13.9,80.5,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Hydraulic Burst,19.2,45.4,2023
+ANDINA-02,Stope Production Face,Drill Jumbo,Power Transmission Failure,50.8,72.5,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,12.5,60.9,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,65.8,33.0,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,10.3,2.0,2024
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,37.2,42.1,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,27.9,2.4,2025
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,37.2,44.4,2024
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,17.8,77.4,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,68.7,42.2,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,28.0,279.2,2024
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,12.2,29.2,2024
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,28.4,66.3,2025
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,12.1,52.8,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Bearing Seizure,12.3,228.5,2025
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,16.2,60.0,2024
+SUR-03,Underground Haulageway,Slurry Pump,Bearing Seizure,49.9,8.6,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Electrical Fault,20.6,149.4,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,31.3,52.9,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,15.9,2.9,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,11.3,51.4,2023
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,78.2,103.0,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,26.2,41.3,2025
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,69.2,21.0,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,9.5,82.6,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,7.8,73.2,2024
+SUR-03,Underground Haulageway,Continuous Haulage,Electrical Fault,50.5,37.7,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,31.4,8.0,2025
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,9.0,13.9,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,11.5,64.4,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,42.7,78.7,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,18.5,15.7,2023
+TITAN-01,Pump Station,Slurry Pump,Bearing Seizure,30.6,22.0,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,13.2,3.9,2025
+TITAN-01,Pump Station,Continuous Haulage,Bearing Seizure,15.5,60.0,2025
+ANDINA-02,Pump Station,Continuous Haulage,Hydraulic Burst,116.3,0.2,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,10.8,2.3,2024
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,20.9,0.2,2025
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,48.7,49.8,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,10.6,25.9,2025
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,16.9,17.0,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,26.9,117.0,2024
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,19.7,10.3,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,18.8,23.7,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,14.8,135.3,2025
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,25.2,26.7,2025
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,27.5,38.8,2023
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,29.4,4.0,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,5.8,74.9,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Electrical Fault,27.9,26.4,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,77.5,77.4,2025
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,22.7,14.1,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,34.1,26.4,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Bearing Seizure,23.5,74.1,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,50.3,175.0,2023
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,67.7,3.0,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,8.9,80.3,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,17.8,17.2,2023
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,16.0,38.4,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,16.5,16.4,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,7.2,45.6,2025
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,44.3,21.0,2024
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,4.9,19.5,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,22.0,1.9,2023
+SUR-03,Stope Production Face,Mine Fan,Bearing Seizure,30.0,7.6,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,9.6,119.5,2023
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,60.7,305.5,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,47.8,72.8,2025
+ANDINA-02,Pump Station,Haulage LHD,Bearing Seizure,19.3,16.2,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,16.7,24.7,2024
+SUR-03,Underground Haulageway,Slurry Pump,Bearing Seizure,10.5,64.6,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Bearing Seizure,35.4,166.0,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,7.4,29.2,2024
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,31.4,84.9,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,48.4,177.2,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Bearing Seizure,10.2,99.2,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,52.3,12.4,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,4.8,0.4,2023
+SUR-03,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,62.5,32.5,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,7.0,36.4,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,28.9,10.8,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,10.9,16.1,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,47.5,69.5,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,21.2,30.5,2025
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,7.5,18.3,2024
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,24.3,46.8,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,16.6,50.8,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Power Transmission Failure,30.0,70.4,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,55.3,8.2,2023
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,16.6,64.9,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,12.2,43.9,2024
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,4.4,2.8,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,24.5,72.1,2024
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,16.4,23.2,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,15.3,19.3,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,8.8,28.5,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,17.5,20.4,2023
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,103.9,19.8,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,12.5,79.2,2023
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,26.0,6.4,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,40.0,169.3,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,37.2,38.9,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,13.6,9.7,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,26.7,6.8,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,53.2,43.0,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,4.4,48.1,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,17.7,2.6,2024
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,10.1,13.4,2024
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,15.8,76.2,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,16.9,2.4,2023
+TITAN-01,Pump Station,Continuous Haulage,Hydraulic Burst,37.0,92.7,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,6.4,51.5,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,21.2,27.4,2023
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,23.9,20.4,2023
+ANDINA-02,Stope Production Face,Mine Fan,Electrical Fault,20.4,0.9,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,35.6,83.7,2025
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,15.6,7.4,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,73.6,17.8,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,19.8,40.4,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,24.3,13.6,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,45.9,33.0,2025
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,11.7,79.5,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,5.9,30.5,2025
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,33.5,142.8,2024
+ANDINA-02,Pump Station,Mine Fan,Hydraulic Burst,19.8,90.3,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,58.4,19.4,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,101.3,24.5,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,16.2,26.4,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,16.9,47.2,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Bearing Seizure,16.6,16.2,2023
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,13.4,167.1,2025
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,40.5,45.0,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Hydraulic Burst,38.2,24.5,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,19.6,49.7,2025
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,5.1,24.2,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,12.9,81.7,2024
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,12.3,40.3,2023
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,44.0,2.1,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,6.2,9.3,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,43.3,96.1,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,30.5,39.7,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,35.6,144.1,2025
+ANDINA-02,Stope Production Face,Mine Fan,Electrical Fault,17.6,3.6,2024
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,31.3,16.8,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,26.5,10.3,2024
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,39.2,38.7,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Hydraulic Burst,18.2,23.2,2023
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,19.4,8.2,2023
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,28.8,49.4,2025
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,6.7,36.9,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,17.8,15.4,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,89.8,31.4,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,4.9,65.7,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,13.1,11.0,2025
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,13.0,16.6,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,28.1,20.4,2025
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,6.7,65.9,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Electrical Fault,27.8,90.1,2023
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,6.4,22.7,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,6.4,16.9,2025
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,35.3,105.7,2023
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,13.4,353.4,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Power Transmission Failure,95.0,53.3,2025
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,4.9,221.0,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,18.1,51.8,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,6.9,63.5,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,14.4,23.6,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Electrical Fault,156.0,27.2,2023
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,56.7,7.5,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,5.2,83.0,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,23.9,128.4,2024
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,29.0,46.9,2025
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,9.6,20.2,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,7.8,8.0,2023
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,60.3,14.8,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,87.2,14.2,2025
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,119.6,45.6,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,41.4,139.3,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,30.1,2.4,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Electrical Fault,14.2,0.0,2025
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,8.5,44.0,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,6.0,16.0,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,32.4,102.0,2023
+ANDINA-02,Pump Station,Mine Fan,Hydraulic Burst,40.9,19.0,2025
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,46.0,16.4,2024
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,62.8,15.1,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,54.9,7.5,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,202.2,41.8,2024
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,10.7,8.8,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,38.6,26.5,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,25.2,29.7,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,11.3,1.0,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,100.3,0.8,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,58.8,35.3,2025
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,7.3,57.2,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,4.6,136.8,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,32.0,9.5,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,26.2,5.2,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,69.9,2.6,2025
+TITAN-01,Drift / Ramp,Slurry Pump,Bearing Seizure,10.4,27.5,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,6.1,46.8,2023
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,11.2,88.1,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,4.5,55.1,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,4.9,11.2,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,63.1,29.7,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,14.4,115.8,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,16.7,19.0,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,4.4,33.1,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,11.6,152.8,2024
+SUR-03,Stope Production Face,Haulage LHD,Hydraulic Burst,43.2,63.7,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,26.9,66.1,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,37.6,14.0,2023
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,18.2,25.7,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,12.9,4.1,2024
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,19.8,44.8,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Bearing Seizure,13.4,5.3,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,47.8,86.8,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,12.5,80.9,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,29.9,36.6,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,7.5,7.3,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,31.9,1.2,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,62.7,76.5,2025
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,26.5,44.0,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,23.7,59.6,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,81.9,17.4,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,27.7,34.2,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,11.2,66.0,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,12.3,29.8,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,33.3,44.1,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,35.9,74.8,2023
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,12.7,11.6,2023
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,14.2,3.3,2024
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,117.2,36.4,2025
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,6.6,3.1,2024
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,16.4,69.8,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,5.5,61.0,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,45.3,102.5,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Electrical Fault,6.3,49.0,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,30.9,3.3,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,5.4,14.0,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,30.8,79.2,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,48.4,8.8,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,16.2,57.5,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,21.7,72.7,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,16.3,19.2,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,12.6,18.7,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Electrical Fault,43.0,39.2,2023
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,11.6,94.8,2024
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,34.8,12.2,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,9.5,136.1,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,10.9,43.9,2023
+SUR-03,Underground Haulageway,Slurry Pump,Hydraulic Burst,13.8,232.5,2024
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,25.3,4.5,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,18.5,6.5,2023
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,36.8,84.1,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,9.8,96.0,2023
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,4.3,28.3,2024
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,40.0,60.1,2024
+SUR-03,Pump Station,Mine Fan,Bearing Seizure,45.4,97.0,2023
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,5.5,2.1,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,26.7,41.0,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Electrical Fault,15.4,92.2,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,41.9,24.4,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,53.8,17.3,2023
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,49.7,76.2,2025
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,40.0,19.6,2024
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,11.5,0.2,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Electrical Fault,44.1,154.0,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,22.3,43.0,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,5.3,82.2,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,18.7,83.7,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,72.4,3.3,2024
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,56.5,9.0,2025
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,6.6,17.9,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,36.7,18.6,2025
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,43.3,51.6,2025
+ANDINA-02,Pump Station,Continuous Haulage,Hydraulic Burst,11.6,46.8,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Bearing Seizure,19.3,32.8,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,33.8,11.4,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,17.9,23.1,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,6.9,37.6,2023
+TITAN-01,Stope Production Face,Mine Fan,Power Transmission Failure,33.4,30.3,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,62.2,6.5,2024
+TITAN-01,Drift / Ramp,Mine Fan,Electrical Fault,29.4,50.3,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Bearing Seizure,39.7,3.6,2025
+SUR-03,Stope Production Face,Drill Jumbo,Electrical Fault,14.6,22.8,2023
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,8.9,59.4,2023
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,28.7,1.0,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,13.5,40.5,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,51.2,19.5,2025
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,7.1,0.4,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,17.6,10.1,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,16.1,135.8,2025
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,70.8,35.3,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,8.0,282.6,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,4.2,35.7,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,10.5,37.7,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,45.2,23.9,2024
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,9.6,17.8,2025
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,10.6,13.9,2024
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,7.3,20.2,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,34.2,29.6,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,5.7,10.2,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,13.7,12.2,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,12.0,15.2,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,23.4,28.6,2023
+SUR-03,Underground Haulageway,Mine Fan,Hydraulic Burst,35.5,50.8,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,22.3,93.1,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,68.2,16.2,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,76.6,9.7,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,14.8,22.9,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,40.1,107.9,2024
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,36.2,0.5,2025
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,57.6,54.4,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,18.3,31.1,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,22.1,8.4,2025
+TITAN-01,Pump Station,Continuous Haulage,Bearing Seizure,16.9,18.6,2024
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,49.6,12.2,2025
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,10.3,100.9,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Electrical Fault,10.6,31.6,2025
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,15.2,39.7,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,10.3,43.2,2024
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,23.8,49.0,2024
+SUR-03,Stope Production Face,Continuous Haulage,Bearing Seizure,7.5,32.8,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,13.3,0.9,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,62.7,19.6,2023
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,16.6,9.8,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,37.1,54.7,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,6.9,2.8,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Bearing Seizure,10.8,39.8,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,43.5,11.4,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,38.6,142.7,2024
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,15.7,19.6,2025
+SUR-03,Stope Production Face,Mine Fan,Power Transmission Failure,78.1,18.9,2025
+SUR-03,Stope Production Face,Continuous Haulage,Bearing Seizure,62.0,123.3,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,82.7,25.9,2025
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,17.4,158.1,2024
+SUR-03,Underground Haulageway,Slurry Pump,Bearing Seizure,9.3,1.2,2023
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,27.6,17.6,2024
+TITAN-01,Drift / Ramp,Continuous Haulage,Hydraulic Burst,31.7,52.7,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,7.2,106.3,2024
+ANDINA-02,Pump Station,Drill Jumbo,Bearing Seizure,41.1,14.2,2025
+TITAN-01,Drift / Ramp,Mine Fan,Electrical Fault,4.4,128.0,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,19.8,43.3,2025
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,13.6,77.5,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,36.4,24.3,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,13.0,11.4,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,46.1,116.2,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Bearing Seizure,25.7,129.8,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,41.9,33.0,2024
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,113.0,0.3,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,31.3,5.6,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,104.7,40.8,2025
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,4.7,1.2,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,13.9,24.3,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,6.7,17.4,2025
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,11.3,60.1,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,47.8,2.7,2024
+SUR-03,Underground Haulageway,Slurry Pump,Hydraulic Burst,4.8,32.2,2024
+TITAN-01,Drift / Ramp,Continuous Haulage,Hydraulic Burst,21.6,41.5,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,24.1,46.1,2025
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,23.8,24.9,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,19.5,17.4,2023
+SUR-03,Stope Production Face,Haulage LHD,Bearing Seizure,41.5,55.1,2023
+SUR-03,Stope Production Face,Slurry Pump,Electrical Fault,7.4,90.3,2025
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,12.9,56.8,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,27.0,129.1,2023
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,32.2,60.6,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,16.4,69.4,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,54.0,8.8,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,16.9,26.1,2023
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,16.4,31.9,2023
+TITAN-01,Pump Station,Continuous Haulage,Bearing Seizure,4.9,14.2,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,23.2,36.1,2025
+ANDINA-02,Pump Station,Continuous Haulage,Hydraulic Burst,33.6,16.5,2023
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,6.9,55.8,2025
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,12.7,30.5,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Bearing Seizure,40.5,29.5,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,14.9,197.4,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,10.6,23.9,2024
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,30.8,21.6,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,9.3,18.4,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,58.2,108.1,2025
+SUR-03,Pump Station,Mine Fan,Electrical Fault,6.7,33.0,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,33.4,44.0,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,20.6,9.6,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,53.0,37.4,2023
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,7.2,15.4,2025
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,31.2,63.0,2024
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,24.4,85.8,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Power Transmission Failure,19.7,60.2,2024
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,20.2,62.9,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,34.7,34.5,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Electrical Fault,70.6,59.8,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,6.3,26.4,2023
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,4.5,50.6,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,43.3,14.4,2025
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,6.7,3.5,2025
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,107.7,25.6,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,27.2,29.7,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,29.3,14.2,2023
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,9.3,62.4,2023
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,10.6,3.7,2024
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,29.8,12.1,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,61.7,66.3,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,100.9,27.6,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,9.3,58.6,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,7.5,40.2,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,5.4,144.5,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,52.7,43.7,2025
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,12.4,0.7,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,4.0,20.9,2023
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,10.1,7.4,2025
+ANDINA-02,Pump Station,Haulage LHD,Bearing Seizure,14.0,124.1,2025
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,117.0,5.3,2023
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,21.8,23.5,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,9.5,12.3,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,13.8,90.0,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,13.6,17.7,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,4.5,231.1,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,7.5,1.9,2023
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,32.5,6.6,2023
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,7.1,12.2,2023
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,10.3,80.0,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Hydraulic Burst,14.4,101.2,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Bearing Seizure,38.0,3.6,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,25.0,1.6,2024
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,32.0,65.5,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Power Transmission Failure,24.1,6.9,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,31.6,6.9,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,4.1,1.1,2023
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,68.1,2.5,2023
+SUR-03,Underground Haulageway,Slurry Pump,Bearing Seizure,6.8,14.7,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,16.5,3.2,2023
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,39.4,22.1,2025
+ANDINA-02,Pump Station,Drill Jumbo,Bearing Seizure,17.7,85.8,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,74.4,19.0,2025
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,19.1,62.5,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,53.9,4.7,2025
+ANDINA-02,Pump Station,Haulage LHD,Electrical Fault,44.0,51.7,2024
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,99.1,18.3,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,66.7,66.5,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,58.8,7.0,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,35.6,109.5,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Hydraulic Burst,15.0,13.3,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,6.7,20.9,2023
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,32.0,144.0,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,96.3,41.5,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Power Transmission Failure,35.1,21.9,2024
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,67.4,143.4,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,43.1,19.2,2023
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,8.3,4.8,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,10.9,276.5,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Electrical Fault,14.0,15.0,2024
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,8.4,91.5,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Hydraulic Burst,24.9,8.7,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Hydraulic Burst,93.0,63.1,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,38.4,35.7,2025
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,17.2,190.0,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,4.1,38.6,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,13.0,1.2,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,22.0,44.4,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,13.4,7.5,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,6.8,76.9,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,18.0,93.2,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,11.0,31.6,2023
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,61.6,73.4,2023
+SUR-03,Stope Production Face,Haulage LHD,Bearing Seizure,6.6,7.5,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,5.2,32.5,2025
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,4.1,24.0,2023
+TITAN-01,Stope Production Face,Mine Fan,Power Transmission Failure,13.5,45.4,2025
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,29.9,2.2,2025
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,35.5,67.0,2024
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,18.5,4.0,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,31.7,51.3,2025
+SUR-03,Stope Production Face,Continuous Haulage,Bearing Seizure,14.7,0.9,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,30.4,85.6,2024
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,5.0,9.2,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,15.9,34.8,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,41.6,14.5,2023
+SUR-03,Pump Station,Mine Fan,Hydraulic Burst,43.0,61.6,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,34.2,18.6,2023
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,9.5,61.9,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,10.8,16.1,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Electrical Fault,137.1,67.0,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Electrical Fault,6.6,1.5,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,8.8,16.0,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Electrical Fault,7.3,33.1,2025
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,13.5,2.2,2024
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,9.7,9.9,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,20.5,130.9,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,19.5,180.7,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,59.6,64.6,2025
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,4.8,13.9,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,13.3,14.5,2025
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,25.8,49.8,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Electrical Fault,26.3,6.0,2023
+SUR-03,Stope Production Face,Drill Jumbo,Bearing Seizure,19.7,142.2,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,44.6,12.2,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,5.6,380.0,2023
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,44.6,32.9,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,20.4,70.8,2023
+ANDINA-02,Stope Production Face,Drill Jumbo,Electrical Fault,7.4,0.1,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,56.1,105.4,2024
+SUR-03,Stope Production Face,Drill Jumbo,Bearing Seizure,29.1,15.1,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Power Transmission Failure,8.3,52.9,2025
+SUR-03,Pump Station,Mine Fan,Hydraulic Burst,4.8,78.8,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,7.7,8.6,2024
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,26.5,28.0,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,8.7,32.7,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,10.1,18.0,2025
+SUR-03,Underground Haulageway,Slurry Pump,Hydraulic Burst,4.6,31.6,2024
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,34.8,18.3,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,43.9,21.5,2023
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,42.3,53.1,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,7.3,48.1,2025
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,60.1,12.7,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,30.8,109.3,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,58.7,95.3,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,18.2,34.2,2023
+SUR-03,Stope Production Face,Mine Fan,Bearing Seizure,17.8,27.3,2025
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,40.8,22.7,2025
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,6.4,59.0,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,21.7,53.5,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,47.4,10.5,2025
+ANDINA-02,Pump Station,Continuous Haulage,Electrical Fault,46.6,53.4,2023
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,79.0,14.0,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,32.8,0.9,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,9.6,57.7,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,4.5,49.7,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,19.7,25.4,2025
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,21.3,35.8,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Bearing Seizure,10.6,141.2,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,7.2,43.4,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,25.2,51.5,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Electrical Fault,38.7,3.2,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,123.6,8.7,2024
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,38.1,17.2,2024
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,41.9,37.2,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,27.0,71.9,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,106.3,18.6,2025
+ANDINA-02,Pump Station,Haulage LHD,Hydraulic Burst,28.5,21.2,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,51.2,14.2,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,74.0,14.1,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Electrical Fault,67.8,142.7,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,15.5,48.4,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,6.0,8.1,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,8.5,61.5,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,5.5,61.5,2025
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,6.7,52.7,2025
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,8.9,6.9,2024
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,14.0,25.2,2024
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,22.8,5.4,2025
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,33.8,81.4,2025
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,9.7,51.1,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,30.8,34.0,2024
+TITAN-01,Pump Station,Continuous Haulage,Bearing Seizure,33.2,20.2,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Electrical Fault,23.6,9.8,2023
+ANDINA-02,Pump Station,Continuous Haulage,Electrical Fault,60.1,5.4,2025
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,6.8,167.1,2025
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,8.7,10.7,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Bearing Seizure,17.4,3.0,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,7.3,156.5,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,24.0,38.2,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,16.2,76.5,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,12.0,2.1,2023
+ANDINA-02,Pump Station,Haulage LHD,Hydraulic Burst,8.5,40.2,2025
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,13.8,24.4,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,26.5,71.0,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Electrical Fault,24.6,1.9,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,8.3,24.7,2024
+SUR-03,Underground Haulageway,Haulage LHD,Bearing Seizure,7.2,77.0,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,4.6,35.5,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,4.3,38.3,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,54.8,4.9,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,5.1,6.8,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,35.5,54.2,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,53.3,54.0,2025
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,6.5,185.7,2025
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,17.8,59.7,2024
+TITAN-01,Pump Station,Drill Jumbo,Bearing Seizure,82.7,32.6,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,47.1,93.5,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,20.1,5.3,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,38.5,28.6,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,47.0,16.2,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,14.3,5.3,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,57.4,69.2,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Hydraulic Burst,19.3,34.3,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,22.0,39.1,2025
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,199.3,25.4,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,48.5,29.6,2024
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,14.8,5.9,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,4.2,53.6,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,27.6,27.2,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,33.2,81.5,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,29.3,10.5,2025
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,86.5,11.0,2025
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,51.7,49.8,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,18.3,89.8,2023
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,5.6,30.7,2025
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,19.5,62.3,2023
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,32.0,350.8,2025
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,26.5,222.3,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,22.5,65.5,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,19.2,64.6,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,12.3,13.7,2024
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,11.8,86.1,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,20.6,24.9,2023
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,8.2,157.0,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,14.0,4.1,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,13.4,27.5,2023
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,25.2,39.0,2024
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,5.7,24.9,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,46.5,11.3,2025
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,23.8,43.1,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,30.7,67.7,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,33.1,49.7,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,12.3,12.8,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,19.3,63.1,2024
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,79.1,14.3,2024
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,38.9,9.2,2024
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,87.8,56.3,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,36.9,88.8,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,8.6,31.5,2025
+ANDINA-02,Pump Station,Haulage LHD,Electrical Fault,5.6,36.4,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,24.7,17.3,2024
+TITAN-01,Underground Haulageway,Slurry Pump,Electrical Fault,14.6,32.8,2023
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,11.7,6.8,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,43.5,149.7,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,15.0,77.3,2024
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,13.2,52.9,2023
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,49.5,37.1,2025
+SUR-03,Stope Production Face,Slurry Pump,Electrical Fault,48.9,75.4,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,14.6,32.8,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,46.9,17.1,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,49.7,8.4,2023
+SUR-03,Stope Production Face,Drill Jumbo,Electrical Fault,17.2,50.1,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,5.7,127.3,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,4.0,8.0,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,21.8,9.5,2024
+SUR-03,Pump Station,Mine Fan,Bearing Seizure,14.1,27.3,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,144.5,78.9,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,39.5,16.7,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Power Transmission Failure,38.4,14.1,2024
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,78.6,46.4,2024
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,56.5,36.8,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,13.2,3.0,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,8.4,4.1,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,36.9,49.4,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,15.4,30.0,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,19.4,169.9,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,27.9,54.5,2025
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,61.2,0.5,2025
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,17.0,31.5,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Electrical Fault,40.7,25.7,2025
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,11.5,5.4,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,32.7,123.2,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,4.0,78.5,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,53.2,12.6,2023
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,4.7,14.2,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Electrical Fault,33.9,1.6,2024
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,5.1,16.9,2023
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,11.4,42.2,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Power Transmission Failure,20.5,26.2,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,17.1,167.1,2023
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,9.1,2.8,2023
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,13.7,43.0,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Electrical Fault,35.2,93.8,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Hydraulic Burst,30.6,31.5,2023
+SUR-03,Stope Production Face,Haulage LHD,Electrical Fault,5.8,0.1,2024
+ANDINA-02,Shaft / Hoistway,Mine Fan,Power Transmission Failure,37.0,13.4,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,5.3,18.8,2025
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,22.8,162.3,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,11.2,116.5,2025
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,25.3,143.0,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,11.3,83.9,2025
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,104.7,20.8,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,12.9,113.4,2024
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,10.6,192.0,2025
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,11.8,20.7,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,58.4,14.5,2025
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,28.3,38.0,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,35.5,9.9,2024
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,64.0,1.6,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,62.3,140.0,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,36.2,124.8,2023
+TITAN-01,Pump Station,Drill Jumbo,Bearing Seizure,9.3,8.5,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,48.5,25.1,2024
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,9.5,85.3,2025
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,36.6,51.9,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,31.8,24.1,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,38.1,65.4,2025
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,22.3,109.1,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,28.4,125.1,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Power Transmission Failure,77.5,22.9,2023
+SUR-03,Pump Station,Slurry Pump,Electrical Fault,6.6,9.2,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,12.9,117.1,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,26.7,4.7,2025
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,83.8,61.4,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,6.4,7.3,2025
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,4.5,23.7,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,5.4,25.5,2025
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,5.3,8.3,2023
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,61.2,122.9,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,34.7,0.1,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,31.1,107.6,2023
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,21.7,103.3,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Electrical Fault,40.6,18.3,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,8.1,58.5,2025
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,15.9,14.0,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,20.2,68.3,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,6.8,39.5,2024
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,17.1,17.1,2025
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,13.1,24.5,2023
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,4.9,56.2,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,7.5,113.5,2023
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,38.7,6.7,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Hydraulic Burst,4.4,40.7,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,69.3,14.0,2023
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,6.2,77.6,2025
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,42.5,3.5,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,58.9,56.1,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,72.0,9.2,2024
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,52.5,43.6,2023
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,12.1,86.7,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,13.7,67.5,2025
+ANDINA-02,Pump Station,Mine Fan,Hydraulic Burst,17.3,67.1,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,7.6,35.0,2024
+SUR-03,Pump Station,Continuous Haulage,Bearing Seizure,4.5,106.3,2025
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,52.8,42.6,2023
+ANDINA-02,Pump Station,Haulage LHD,Electrical Fault,23.4,119.8,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,26.5,38.0,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,66.8,33.8,2024
+SUR-03,Pump Station,Mine Fan,Electrical Fault,30.3,12.1,2023
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,32.2,37.8,2025
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,41.1,7.3,2023
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,7.0,97.8,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,14.7,54.1,2024
+SUR-03,Stope Production Face,Haulage LHD,Bearing Seizure,86.8,242.7,2024
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,65.5,4.6,2024
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,55.7,13.2,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Electrical Fault,18.4,100.6,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Electrical Fault,50.7,24.1,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,5.2,30.1,2025
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,7.9,94.6,2025
+TITAN-01,Drift / Ramp,Mine Fan,Electrical Fault,16.8,35.4,2024
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,19.9,10.3,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,11.3,106.8,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,14.6,1.5,2025
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,8.3,108.4,2023
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,20.1,2.5,2023
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,41.9,52.6,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,30.0,3.6,2024
+TITAN-01,Stope Production Face,Slurry Pump,Bearing Seizure,6.7,58.8,2023
+SUR-03,Pump Station,Mine Fan,Electrical Fault,20.0,1.7,2024
+SUR-03,Underground Haulageway,Continuous Haulage,Power Transmission Failure,32.7,88.7,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Bearing Seizure,22.1,30.1,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,15.9,4.7,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Power Transmission Failure,27.3,58.9,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,87.1,32.3,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,6.4,10.2,2023
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,15.9,0.8,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,16.5,26.0,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,24.6,4.3,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Electrical Fault,8.0,4.7,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Hydraulic Burst,8.7,14.9,2025
+ANDINA-02,Stope Production Face,Mine Fan,Hydraulic Burst,12.1,47.8,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,78.9,36.2,2025
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,35.8,3.4,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,30.0,165.9,2024
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,44.8,104.7,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,7.3,14.4,2024
+SUR-03,Stope Production Face,Slurry Pump,Electrical Fault,51.1,6.3,2023
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,25.7,137.0,2025
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,13.8,29.7,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,44.6,17.9,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,42.9,32.4,2024
+SUR-03,Underground Haulageway,Haulage LHD,Bearing Seizure,48.9,71.1,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,6.9,8.9,2023
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,87.7,70.0,2025
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,81.0,66.4,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,14.6,37.2,2024
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,5.6,96.4,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Electrical Fault,8.4,6.8,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,122.5,43.4,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,23.9,28.6,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Electrical Fault,14.6,26.3,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,12.2,14.0,2025
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,11.1,22.4,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,30.2,5.5,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Electrical Fault,17.0,13.9,2024
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,84.7,15.2,2025
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,31.6,61.2,2024
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,41.7,2.4,2023
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,12.3,50.6,2024
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,6.0,12.0,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,20.1,4.1,2025
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,13.1,17.2,2024
+SUR-03,Pump Station,Continuous Haulage,Bearing Seizure,9.4,12.2,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,77.2,38.5,2024
+ANDINA-02,Pump Station,Continuous Haulage,Hydraulic Burst,18.1,21.2,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,8.6,162.3,2024
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,9.3,159.0,2024
+ANDINA-02,Pump Station,Continuous Haulage,Hydraulic Burst,11.9,28.2,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,178.9,76.1,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,11.5,0.6,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Bearing Seizure,13.6,38.1,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Hydraulic Burst,29.8,65.3,2024
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,12.4,11.7,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,9.8,3.0,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,8.1,8.1,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,13.0,28.0,2025
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,6.7,33.9,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,4.5,23.0,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,43.2,27.8,2023
+SUR-03,Stope Production Face,Haulage LHD,Hydraulic Burst,7.6,30.5,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,39.9,70.4,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,42.3,5.3,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,22.5,70.3,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,12.9,56.0,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,7.8,65.0,2024
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,36.0,63.6,2025
+SUR-03,Underground Haulageway,Haulage LHD,Bearing Seizure,26.1,30.5,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,29.6,11.4,2024
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,4.2,36.9,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,67.0,152.1,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,5.6,42.6,2024
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,15.0,0.5,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,16.4,3.0,2025
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,4.0,237.2,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,20.5,3.6,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,37.5,2.3,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,45.6,20.9,2024
+TITAN-01,Pump Station,Drill Jumbo,Bearing Seizure,54.8,167.2,2025
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,20.1,18.4,2024
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,27.9,25.3,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,6.0,48.3,2024
+ANDINA-02,Pump Station,Continuous Haulage,Electrical Fault,20.1,1.2,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,8.0,109.5,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,15.1,35.2,2025
+SUR-03,Drift / Ramp,Mine Fan,Bearing Seizure,13.6,30.2,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,17.2,94.6,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,24.3,146.8,2023
+SUR-03,Stope Production Face,Drill Jumbo,Electrical Fault,60.0,26.4,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,16.0,9.1,2025
+TITAN-01,Drift / Ramp,Slurry Pump,Hydraulic Burst,99.3,81.2,2023
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,38.2,24.8,2023
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,21.2,131.6,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,28.8,143.7,2025
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,6.6,5.9,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,48.7,150.5,2025
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,25.0,22.0,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,106.6,49.9,2024
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,28.3,1.7,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,47.1,105.5,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,42.6,49.3,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,14.2,49.5,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,11.2,111.6,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,17.5,34.1,2024
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,19.1,25.4,2023
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,10.6,96.5,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Hydraulic Burst,58.0,65.1,2023
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,22.8,142.8,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,96.1,135.1,2023
+TITAN-01,Pump Station,Continuous Haulage,Hydraulic Burst,43.9,23.1,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,23.5,28.4,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,74.5,14.2,2024
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,20.9,51.9,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,56.4,21.8,2023
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,14.6,74.0,2024
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,15.4,6.2,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,17.0,5.9,2025
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,23.0,11.0,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,23.4,4.2,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,20.5,46.4,2024
+SUR-03,Stope Production Face,Slurry Pump,Power Transmission Failure,12.8,7.7,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,66.9,8.4,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Electrical Fault,25.3,0.7,2025
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,16.6,73.1,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,29.3,80.3,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,39.1,8.5,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,81.7,64.6,2023
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,20.6,27.3,2023
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,6.9,13.1,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,17.9,46.6,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,19.6,9.4,2025
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,58.6,67.9,2023
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,16.1,2.3,2023
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,77.5,153.5,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Bearing Seizure,19.9,3.6,2023
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,91.4,41.6,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,4.2,111.6,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Electrical Fault,59.0,0.6,2025
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,68.2,33.1,2024
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,81.9,20.7,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,4.3,41.7,2025
+SUR-03,Underground Haulageway,Slurry Pump,Hydraulic Burst,8.5,12.3,2023
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,29.5,3.2,2023
+SUR-03,Stope Production Face,Haulage LHD,Hydraulic Burst,4.6,47.2,2023
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,5.6,25.9,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Power Transmission Failure,10.0,46.8,2023
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,21.2,11.3,2024
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,22.9,19.9,2024
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,4.8,39.6,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,8.5,43.2,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,20.6,22.4,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,25.6,15.8,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,7.9,15.4,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,16.2,9.2,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,60.3,18.9,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,167.5,10.7,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,108.6,48.2,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,55.2,40.4,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,16.0,23.1,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,31.8,18.9,2024
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,16.9,13.0,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,29.1,36.8,2025
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,12.9,120.6,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,26.4,55.6,2023
+TITAN-01,Stope Production Face,Haulage LHD,Electrical Fault,21.8,65.5,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,4.6,86.3,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,41.5,20.8,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,4.3,3.1,2024
+TITAN-01,Pump Station,Haulage LHD,Power Transmission Failure,12.3,46.8,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Bearing Seizure,4.1,10.0,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,15.3,40.4,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,5.6,64.6,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Bearing Seizure,62.7,73.5,2025
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,16.9,17.2,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,18.8,34.5,2024
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,14.3,46.6,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,27.7,82.2,2025
+SUR-03,Stope Production Face,Slurry Pump,Power Transmission Failure,40.8,68.8,2025
+ANDINA-02,Pump Station,Mine Fan,Hydraulic Burst,29.1,212.2,2023
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,37.1,0.4,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,60.7,27.6,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,51.8,14.2,2023
+SUR-03,Stope Production Face,Haulage LHD,Hydraulic Burst,30.9,6.1,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,9.8,116.4,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,28.4,297.4,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,20.9,9.6,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,34.3,1.9,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,46.9,15.4,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,36.6,86.4,2024
+TITAN-01,Drift / Ramp,Slurry Pump,Power Transmission Failure,49.0,16.7,2023
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,5.6,2.8,2025
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,4.8,2.6,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,11.2,26.8,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,59.4,128.9,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,45.6,16.2,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,31.6,26.7,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,33.0,5.2,2024
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,35.1,32.7,2025
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,72.6,57.2,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,46.8,15.2,2025
+ANDINA-02,Shaft / Hoistway,Mine Fan,Electrical Fault,27.4,16.9,2023
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,30.3,88.6,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,9.8,0.5,2023
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,29.7,48.6,2023
+SUR-03,Stope Production Face,Drill Jumbo,Electrical Fault,17.3,24.0,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Hydraulic Burst,8.0,17.0,2023
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,43.4,51.4,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,21.1,86.4,2025
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,95.0,39.2,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Power Transmission Failure,11.9,1.5,2023
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,19.7,29.7,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Electrical Fault,18.3,29.8,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,7.1,37.7,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,17.3,53.4,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,12.1,0.9,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,8.2,33.5,2025
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,12.0,42.6,2025
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,10.4,20.2,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,35.8,53.0,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,4.8,12.4,2025
+ANDINA-02,Pump Station,Mine Fan,Hydraulic Burst,27.1,18.3,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,38.3,157.9,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Bearing Seizure,19.7,20.5,2024
+SUR-03,Stope Production Face,Slurry Pump,Power Transmission Failure,68.4,20.4,2025
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,33.5,43.5,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,37.1,169.9,2025
+SUR-03,Stope Production Face,Slurry Pump,Power Transmission Failure,9.3,195.8,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,40.0,41.6,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,46.8,0.1,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,14.8,110.8,2024
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,9.8,40.5,2025
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,15.7,21.9,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,36.3,84.8,2025
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,17.0,24.5,2025
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,36.0,1.7,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,6.9,82.6,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,43.4,37.9,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,11.0,19.8,2024
+SUR-03,Stope Production Face,Slurry Pump,Electrical Fault,10.9,13.9,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,25.4,43.2,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,5.7,11.2,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Bearing Seizure,4.6,18.8,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,11.3,48.6,2023
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,22.5,102.4,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,61.2,36.5,2024
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,49.0,68.3,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,20.2,69.1,2023
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,4.9,52.4,2025
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,22.4,13.5,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,33.3,96.8,2023
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,13.9,27.5,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,6.8,2.2,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Electrical Fault,11.8,13.5,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,39.4,69.6,2024
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,14.4,3.4,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Bearing Seizure,44.1,7.7,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Hydraulic Burst,13.2,56.9,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,8.3,107.1,2025
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,17.7,48.2,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,18.4,12.1,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,4.4,2.6,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,7.0,45.8,2023
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,8.9,2.3,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,6.9,45.5,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,14.0,12.3,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Hydraulic Burst,84.2,112.8,2025
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,21.1,30.9,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,27.7,12.2,2023
+TITAN-01,Drift / Ramp,Mine Fan,Power Transmission Failure,14.6,92.1,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,13.4,14.1,2024
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,4.6,17.6,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Electrical Fault,20.7,86.3,2024
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,19.9,17.7,2024
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,8.1,25.3,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,38.7,20.5,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,20.3,5.9,2024
+TITAN-01,Stope Production Face,Mine Fan,Bearing Seizure,13.9,1.9,2024
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,7.8,61.9,2025
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,23.3,49.7,2023
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,37.5,15.9,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,12.0,16.8,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,9.9,139.2,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,21.7,211.0,2024
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,8.1,30.8,2023
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,30.4,77.8,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Hydraulic Burst,26.3,64.1,2023
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,6.2,16.9,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Power Transmission Failure,4.9,2.9,2024
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,27.2,7.4,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,12.4,87.5,2025
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,6.2,63.1,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,38.2,52.4,2024
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,13.0,6.7,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,18.8,49.0,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,10.5,71.0,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,27.7,94.6,2025
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,12.6,0.6,2025
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,86.6,55.4,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,33.1,0.9,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,7.5,58.9,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,16.9,48.5,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,15.7,7.7,2024
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,22.3,69.7,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Bearing Seizure,48.3,3.4,2024
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,25.0,84.0,2023
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,5.5,14.6,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Electrical Fault,29.6,56.0,2025
+SUR-03,Stope Production Face,Mine Fan,Power Transmission Failure,4.2,123.5,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,40.3,19.9,2023
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,30.4,33.5,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,12.9,29.9,2024
+ANDINA-02,Pump Station,Continuous Haulage,Power Transmission Failure,12.3,8.2,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,42.4,42.8,2024
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,40.7,65.2,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,14.4,119.4,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,12.5,91.3,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,23.7,34.2,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,4.2,60.9,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,6.1,77.4,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Electrical Fault,7.2,32.7,2023
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,8.9,5.9,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,21.2,27.7,2024
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,120.6,88.7,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Hydraulic Burst,29.4,43.6,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,5.5,61.9,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,21.9,9.8,2024
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,20.5,160.0,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Electrical Fault,7.7,24.8,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Electrical Fault,64.7,50.9,2024
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,17.9,0.9,2025
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,129.1,6.5,2025
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,17.1,73.1,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,26.5,165.2,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Hydraulic Burst,6.7,18.5,2025
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,18.5,1.8,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,10.5,21.5,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,47.3,0.8,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,40.8,10.3,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,45.7,67.0,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,34.9,132.8,2024
+SUR-03,Stope Production Face,Drill Jumbo,Bearing Seizure,46.9,4.4,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Bearing Seizure,9.4,39.2,2025
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,18.4,14.1,2025
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,32.3,7.2,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,28.3,11.9,2023
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,34.2,41.4,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,10.1,3.2,2023
+ANDINA-02,Pump Station,Drill Jumbo,Bearing Seizure,6.5,27.3,2023
+SUR-03,Pump Station,Haulage LHD,Bearing Seizure,63.7,7.0,2024
+TITAN-01,Drift / Ramp,Continuous Haulage,Hydraulic Burst,23.7,15.3,2025
+SUR-03,Stope Production Face,Continuous Haulage,Electrical Fault,8.0,10.2,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,41.9,103.0,2025
+SUR-03,Stope Production Face,Haulage LHD,Power Transmission Failure,63.1,59.1,2024
+SUR-03,Stope Production Face,Mine Fan,Power Transmission Failure,8.5,97.4,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,44.8,23.2,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Hydraulic Burst,69.0,18.0,2025
+ANDINA-02,Pump Station,Slurry Pump,Power Transmission Failure,70.9,23.0,2024
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,62.9,0.9,2024
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,23.0,61.9,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,14.6,20.7,2025
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,4.2,18.0,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,5.5,43.8,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Electrical Fault,17.4,27.5,2024
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,16.2,189.8,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Electrical Fault,8.9,21.1,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,16.1,45.7,2023
+SUR-03,Drift / Ramp,Mine Fan,Electrical Fault,8.6,17.9,2023
+SUR-03,Shaft / Hoistway,Haulage LHD,Electrical Fault,49.3,224.0,2024
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,12.5,28.3,2024
+SUR-03,Underground Haulageway,Slurry Pump,Bearing Seizure,25.9,48.3,2024
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,20.8,6.5,2024
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,5.3,63.4,2025
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,72.4,15.1,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,22.0,28.6,2025
+SUR-03,Pump Station,Mine Fan,Power Transmission Failure,13.4,103.0,2024
+SUR-03,Underground Haulageway,Mine Fan,Hydraulic Burst,8.1,169.2,2024
+SUR-03,Pump Station,Slurry Pump,Bearing Seizure,13.9,26.5,2025
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,4.5,86.4,2023
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,14.8,2.6,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Electrical Fault,22.2,90.3,2024
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,53.3,47.7,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,31.9,32.2,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,6.8,105.9,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,7.8,89.6,2023
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,17.4,16.9,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,9.2,75.3,2023
+TITAN-01,Stope Production Face,Mine Fan,Bearing Seizure,4.7,5.0,2025
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,43.2,83.1,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,4.5,54.0,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,46.6,4.4,2025
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,7.7,55.2,2024
+ANDINA-02,Stope Production Face,Mine Fan,Electrical Fault,92.2,41.7,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Power Transmission Failure,26.2,43.3,2024
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,35.9,16.5,2024
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,6.8,14.9,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,51.6,69.0,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,47.9,14.2,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,29.4,28.4,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,20.7,57.0,2024
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,34.7,4.0,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,4.1,43.3,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Electrical Fault,25.5,42.7,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,49.1,55.3,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Bearing Seizure,14.6,22.2,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,6.8,28.6,2025
+SUR-03,Stope Production Face,Drill Jumbo,Electrical Fault,17.1,19.2,2023
+SUR-03,Stope Production Face,Drill Jumbo,Bearing Seizure,35.2,79.3,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Bearing Seizure,6.7,6.7,2023
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,9.5,158.2,2025
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,7.8,48.4,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Electrical Fault,42.3,104.6,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,5.6,26.7,2024
+ANDINA-02,Pump Station,Haulage LHD,Electrical Fault,31.8,19.4,2023
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,15.0,110.9,2024
+SUR-03,Stope Production Face,Haulage LHD,Power Transmission Failure,37.8,5.0,2023
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,84.0,6.0,2025
+SUR-03,Pump Station,Slurry Pump,Electrical Fault,6.9,17.1,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Power Transmission Failure,13.1,154.2,2024
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,43.9,48.1,2023
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,11.4,38.8,2023
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,9.8,58.7,2024
+ANDINA-02,Stope Production Face,Drill Jumbo,Bearing Seizure,45.9,25.9,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,108.4,68.1,2025
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,23.5,24.0,2025
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,11.8,84.0,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,16.2,14.9,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,8.5,15.6,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Hydraulic Burst,38.4,35.5,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,39.6,27.0,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,53.9,50.1,2025
+TITAN-01,Pump Station,Slurry Pump,Bearing Seizure,4.6,21.7,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,23.8,12.6,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Electrical Fault,9.8,30.5,2024
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,14.0,39.5,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,40.9,7.4,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Bearing Seizure,9.1,39.1,2024
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,28.4,18.5,2025
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,29.5,23.9,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,77.9,15.7,2024
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,39.8,128.6,2023
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,43.1,55.2,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,22.2,14.6,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Bearing Seizure,9.0,49.7,2025
+SUR-03,Drift / Ramp,Slurry Pump,Power Transmission Failure,17.3,90.6,2025
+TITAN-01,Underground Haulageway,Mine Fan,Power Transmission Failure,23.1,24.7,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,31.2,85.0,2025
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,26.5,8.1,2023
+SUR-03,Underground Haulageway,Haulage LHD,Power Transmission Failure,16.0,83.1,2024
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,11.4,37.3,2024
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,8.4,12.1,2024
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,32.4,25.1,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,28.9,212.3,2024
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,31.9,73.5,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,15.2,41.1,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,11.3,5.9,2025
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,38.2,26.0,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,39.7,14.7,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,18.6,3.5,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,26.7,37.5,2025
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,15.2,105.6,2024
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,33.1,54.0,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,47.3,13.8,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Electrical Fault,32.0,40.9,2024
+ANDINA-02,Pump Station,Continuous Haulage,Bearing Seizure,21.2,137.7,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,18.7,61.6,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,28.7,56.1,2025
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,31.3,165.5,2023
+ANDINA-02,Stope Production Face,Mine Fan,Power Transmission Failure,23.6,77.0,2023
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,27.5,7.1,2023
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,6.4,20.5,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,76.8,161.1,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,41.5,32.3,2024
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,15.2,5.7,2023
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,23.9,29.5,2024
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,5.2,57.3,2023
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,5.0,288.5,2025
+TITAN-01,Stope Production Face,Haulage LHD,Electrical Fault,10.9,18.8,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,32.1,34.6,2023
+SUR-03,Pump Station,Haulage LHD,Electrical Fault,49.9,101.6,2024
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,23.7,21.1,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Hydraulic Burst,22.2,5.6,2024
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,16.4,142.8,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,8.2,32.2,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,7.0,33.5,2025
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,38.3,46.6,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,67.0,0.2,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,18.7,128.4,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,29.9,21.5,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,63.0,24.3,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,6.3,9.2,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,39.3,22.8,2025
+ANDINA-02,Drift / Ramp,Mine Fan,Electrical Fault,27.0,78.2,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,25.9,77.3,2024
+TITAN-01,Shaft / Hoistway,Haulage LHD,Bearing Seizure,12.3,131.8,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,31.6,24.8,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,42.0,59.2,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,6.9,34.0,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,22.3,78.2,2024
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,6.6,59.8,2024
+SUR-03,Underground Haulageway,Mine Fan,Bearing Seizure,53.4,22.0,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,21.0,19.7,2023
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,43.6,14.0,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Bearing Seizure,15.0,41.2,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,7.2,159.4,2024
+SUR-03,Pump Station,Mine Fan,Hydraulic Burst,5.0,10.7,2024
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,11.9,4.8,2024
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,10.7,6.1,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,23.7,73.4,2025
+TITAN-01,Stope Production Face,Mine Fan,Power Transmission Failure,4.5,20.7,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,21.6,12.2,2023
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,15.9,20.9,2023
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,24.7,49.8,2023
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,33.1,38.0,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Hydraulic Burst,28.1,65.3,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,104.2,19.9,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,7.6,28.9,2024
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,17.5,5.2,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,17.3,3.6,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Electrical Fault,17.0,29.8,2023
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,30.2,17.2,2025
+SUR-03,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,20.2,45.5,2023
+TITAN-01,Drift / Ramp,Haulage LHD,Bearing Seizure,21.5,2.1,2023
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,17.6,6.2,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,119.0,96.2,2023
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,67.0,40.1,2024
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,12.8,59.8,2023
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,6.8,88.6,2025
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,47.9,29.9,2023
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,144.8,68.7,2024
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,12.3,35.7,2023
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,14.6,12.1,2024
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,72.2,19.8,2024
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,33.8,32.4,2025
+TITAN-01,Pump Station,Haulage LHD,Hydraulic Burst,12.4,18.3,2024
+SUR-03,Stope Production Face,Slurry Pump,Bearing Seizure,24.9,19.6,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,73.3,19.8,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,44.1,6.3,2023
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,36.5,4.2,2025
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,36.1,2.3,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,8.7,5.6,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,45.8,20.2,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,11.8,43.3,2023
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,67.9,10.0,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,14.9,105.1,2025
+ANDINA-02,Stope Production Face,Mine Fan,Hydraulic Burst,50.8,79.3,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,11.4,35.3,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,21.3,61.8,2023
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,6.7,21.9,2023
+SUR-03,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,29.9,1.8,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,47.4,112.7,2024
+SUR-03,Stope Production Face,Mine Fan,Hydraulic Burst,34.4,6.6,2023
+ANDINA-02,Stope Production Face,Drill Jumbo,Hydraulic Burst,21.8,141.9,2023
+SUR-03,Stope Production Face,Mine Fan,Electrical Fault,5.1,40.7,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,69.0,17.5,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,33.3,32.8,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,36.9,33.4,2023
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,42.0,1.1,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,37.1,21.1,2025
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,18.0,64.6,2023
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,35.7,34.2,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,27.5,13.4,2023
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,50.2,19.6,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,42.9,95.4,2024
+SUR-03,Pump Station,Mine Fan,Bearing Seizure,5.0,35.8,2025
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,15.4,36.1,2023
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,4.8,156.3,2025
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,6.6,18.6,2024
+SUR-03,Pump Station,Mine Fan,Electrical Fault,26.1,31.3,2023
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,53.7,80.1,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,7.1,68.3,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,18.4,14.8,2024
+TITAN-01,Pump Station,Mine Fan,Power Transmission Failure,62.0,7.9,2024
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,44.4,57.9,2023
+SUR-03,Drift / Ramp,Mine Fan,Power Transmission Failure,21.6,14.3,2025
+ANDINA-02,Stope Production Face,Haulage LHD,Bearing Seizure,39.4,122.9,2025
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,21.8,6.6,2023
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,8.1,18.4,2023
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,7.2,2.7,2025
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,9.0,58.3,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,14.4,106.5,2023
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,68.0,48.5,2024
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,42.6,133.3,2023
+SUR-03,Pump Station,Drill Jumbo,Power Transmission Failure,17.6,6.6,2025
+TITAN-01,Pump Station,Mine Fan,Hydraulic Burst,20.3,4.4,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,11.4,87.5,2025
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,33.2,92.9,2024
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,43.0,85.3,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,10.6,77.0,2024
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,5.0,21.6,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,27.5,11.8,2023
+SUR-03,Pump Station,Haulage LHD,Power Transmission Failure,23.8,126.8,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,16.3,17.6,2024
+TITAN-01,Stope Production Face,Haulage LHD,Electrical Fault,28.8,24.4,2023
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,23.2,57.7,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Bearing Seizure,10.9,16.7,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Electrical Fault,16.2,82.1,2024
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,17.4,3.5,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,54.9,75.2,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,81.8,44.2,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Hydraulic Burst,57.6,40.8,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Electrical Fault,34.5,29.4,2024
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,25.1,15.6,2025
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,32.1,29.9,2023
+TITAN-01,Pump Station,Drill Jumbo,Electrical Fault,71.2,28.7,2024
+TITAN-01,Stope Production Face,Slurry Pump,Power Transmission Failure,10.9,42.1,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Electrical Fault,22.4,15.9,2024
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,32.1,3.9,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,31.3,7.5,2023
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Electrical Fault,11.0,57.7,2023
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,25.2,1.1,2025
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,42.1,93.2,2024
+SUR-03,Underground Haulageway,Slurry Pump,Hydraulic Burst,19.5,56.9,2024
+ANDINA-02,Shaft / Hoistway,Mine Fan,Hydraulic Burst,41.8,70.1,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Bearing Seizure,14.7,86.8,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,71.0,6.3,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,22.3,83.0,2023
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,25.7,33.7,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,4.8,104.0,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,8.5,104.5,2024
+ANDINA-02,Drift / Ramp,Haulage LHD,Hydraulic Burst,28.1,1.2,2024
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,17.1,23.2,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,21.0,35.9,2025
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,5.6,54.4,2023
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,47.1,16.2,2025
+SUR-03,Drift / Ramp,Haulage LHD,Electrical Fault,40.8,13.9,2023
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,8.9,23.0,2024
+SUR-03,Stope Production Face,Slurry Pump,Hydraulic Burst,28.1,33.4,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Electrical Fault,44.9,144.9,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,28.6,68.9,2024
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,12.9,26.9,2024
+SUR-03,Pump Station,Continuous Haulage,Hydraulic Burst,29.6,2.7,2025
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,9.7,8.9,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Electrical Fault,13.2,29.2,2025
+SUR-03,Shaft / Hoistway,Mine Fan,Power Transmission Failure,10.6,80.7,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,23.5,23.0,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,6.7,37.1,2023
+SUR-03,Pump Station,Continuous Haulage,Power Transmission Failure,69.0,106.7,2025
+SUR-03,Pump Station,Mine Fan,Bearing Seizure,13.7,117.7,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,9.9,11.7,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,20.5,2.1,2023
+TITAN-01,Stope Production Face,Mine Fan,Power Transmission Failure,11.8,17.5,2024
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,22.4,57.1,2025
+TITAN-01,Pump Station,Continuous Haulage,Hydraulic Burst,14.3,144.9,2023
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,7.4,3.8,2024
+TITAN-01,Underground Haulageway,Mine Fan,Hydraulic Burst,11.4,1.4,2025
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,17.8,103.5,2025
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Electrical Fault,4.7,66.2,2025
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,39.3,233.3,2025
+SUR-03,Stope Production Face,Haulage LHD,Hydraulic Burst,27.3,24.3,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,26.1,25.8,2024
+ANDINA-02,Pump Station,Haulage LHD,Bearing Seizure,23.0,9.1,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,25.4,5.9,2024
+ANDINA-02,Pump Station,Mine Fan,Electrical Fault,69.5,41.5,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,4.2,21.7,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,5.2,4.0,2025
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,9.1,104.7,2024
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,8.4,10.6,2025
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,8.8,66.3,2023
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,30.7,15.9,2023
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,18.8,80.5,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Bearing Seizure,119.2,6.0,2024
+TITAN-01,Underground Haulageway,Continuous Haulage,Electrical Fault,10.2,67.7,2023
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,12.9,5.0,2023
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Electrical Fault,103.6,28.4,2023
+TITAN-01,Pump Station,Mine Fan,Bearing Seizure,46.8,63.6,2023
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,19.2,9.1,2024
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,23.4,16.1,2023
+TITAN-01,Stope Production Face,Slurry Pump,Electrical Fault,48.5,96.0,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,19.7,103.9,2023
+SUR-03,Pump Station,Haulage LHD,Hydraulic Burst,9.5,2.2,2023
+SUR-03,Drift / Ramp,Slurry Pump,Bearing Seizure,46.3,8.8,2025
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,22.5,6.0,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Power Transmission Failure,8.0,9.5,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,20.9,168.6,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Hydraulic Burst,16.8,38.5,2023
+SUR-03,Underground Haulageway,Haulage LHD,Hydraulic Burst,54.3,30.3,2025
+SUR-03,Stope Production Face,Haulage LHD,Bearing Seizure,7.2,199.9,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,53.9,39.1,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Hydraulic Burst,21.2,51.9,2023
+SUR-03,Drift / Ramp,Continuous Haulage,Power Transmission Failure,16.4,19.4,2023
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,8.2,23.1,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,33.0,43.3,2025
+SUR-03,Stope Production Face,Continuous Haulage,Hydraulic Burst,66.8,3.5,2025
+TITAN-01,Underground Haulageway,Slurry Pump,Bearing Seizure,15.3,14.2,2025
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,10.6,10.5,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Electrical Fault,23.4,0.8,2023
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,42.2,37.0,2024
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,4.1,39.5,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Hydraulic Burst,28.0,23.3,2024
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,25.8,15.0,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,13.2,50.7,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Electrical Fault,18.4,6.9,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Power Transmission Failure,10.8,35.1,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Power Transmission Failure,41.4,70.1,2024
+ANDINA-02,Drift / Ramp,Mine Fan,Hydraulic Burst,28.2,8.6,2024
+TITAN-01,Stope Production Face,Haulage LHD,Bearing Seizure,22.3,67.2,2023
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,16.0,68.7,2025
+ANDINA-02,Pump Station,Drill Jumbo,Power Transmission Failure,12.3,3.0,2023
+SUR-03,Stope Production Face,Haulage LHD,Bearing Seizure,45.5,0.9,2023
+TITAN-01,Pump Station,Mine Fan,Electrical Fault,18.4,175.1,2023
+SUR-03,Underground Haulageway,Haulage LHD,Power Transmission Failure,20.7,10.3,2024
+SUR-03,Stope Production Face,Slurry Pump,Power Transmission Failure,21.7,82.9,2024
+ANDINA-02,Drift / Ramp,Continuous Haulage,Bearing Seizure,18.3,39.6,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,11.1,14.7,2023
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,7.1,6.7,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Power Transmission Failure,6.5,33.0,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,38.0,25.1,2024
+TITAN-01,Drift / Ramp,Haulage LHD,Power Transmission Failure,10.1,57.6,2024
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,5.4,112.6,2024
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,42.3,78.5,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Power Transmission Failure,8.0,15.4,2023
+SUR-03,Drift / Ramp,Slurry Pump,Electrical Fault,27.5,101.3,2025
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,13.9,86.0,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Electrical Fault,7.2,127.1,2024
+ANDINA-02,Pump Station,Haulage LHD,Electrical Fault,16.8,29.5,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,4.4,70.2,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,48.1,43.0,2023
+SUR-03,Pump Station,Drill Jumbo,Electrical Fault,21.3,17.8,2024
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,7.6,249.1,2024
+SUR-03,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,10.5,1.9,2025
+TITAN-01,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,18.3,8.5,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Bearing Seizure,9.0,107.1,2024
+TITAN-01,Pump Station,Drill Jumbo,Hydraulic Burst,11.5,3.0,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,22.3,104.6,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Electrical Fault,46.9,60.3,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Power Transmission Failure,16.3,1.8,2024
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,34.3,26.9,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Hydraulic Burst,54.2,67.4,2025
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,9.8,42.0,2025
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,43.5,131.8,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,38.0,97.1,2023
+SUR-03,Underground Haulageway,Slurry Pump,Power Transmission Failure,14.6,19.4,2025
+TITAN-01,Underground Haulageway,Haulage LHD,Bearing Seizure,113.4,4.2,2024
+SUR-03,Stope Production Face,Continuous Haulage,Bearing Seizure,11.3,138.6,2025
+ANDINA-02,Pump Station,Slurry Pump,Hydraulic Burst,11.1,35.0,2024
+ANDINA-02,Shaft / Hoistway,Mine Fan,Bearing Seizure,39.5,3.7,2025
+TITAN-01,Shaft / Hoistway,Slurry Pump,Electrical Fault,17.7,81.4,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,13.6,97.4,2023
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,8.7,49.0,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Power Transmission Failure,38.8,28.5,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Hydraulic Burst,41.0,52.1,2023
+SUR-03,Stope Production Face,Drill Jumbo,Power Transmission Failure,24.1,58.9,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Power Transmission Failure,79.7,107.3,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,13.2,149.8,2025
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,10.0,34.7,2024
+TITAN-01,Stope Production Face,Drill Jumbo,Power Transmission Failure,31.2,76.9,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Hydraulic Burst,38.1,160.2,2025
+TITAN-01,Pump Station,Continuous Haulage,Power Transmission Failure,10.1,7.9,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,5.9,0.9,2024
+SUR-03,Shaft / Hoistway,Mine Fan,Bearing Seizure,43.9,97.5,2024
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,94.0,10.4,2023
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,28.8,2.1,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,11.8,8.4,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Hydraulic Burst,140.9,23.3,2025
+ANDINA-02,Pump Station,Haulage LHD,Hydraulic Burst,57.7,11.9,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Power Transmission Failure,21.3,17.5,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Power Transmission Failure,45.9,177.6,2023
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,44.6,58.5,2025
+ANDINA-02,Underground Haulageway,Continuous Haulage,Power Transmission Failure,69.5,59.8,2024
+TITAN-01,Drift / Ramp,Mine Fan,Bearing Seizure,48.1,4.8,2023
+SUR-03,Pump Station,Continuous Haulage,Electrical Fault,28.8,63.2,2023
+ANDINA-02,Pump Station,Slurry Pump,Bearing Seizure,26.6,64.5,2023
+TITAN-01,Drift / Ramp,Mine Fan,Hydraulic Burst,19.1,51.7,2023
+SUR-03,Pump Station,Continuous Haulage,Bearing Seizure,27.6,12.4,2024
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,42.1,26.4,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Bearing Seizure,87.4,89.9,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Hydraulic Burst,19.1,53.2,2025
+TITAN-01,Stope Production Face,Continuous Haulage,Power Transmission Failure,24.5,63.3,2024
+SUR-03,Shaft / Hoistway,Haulage LHD,Bearing Seizure,18.1,42.5,2025
+TITAN-01,Drift / Ramp,Slurry Pump,Hydraulic Burst,30.5,28.7,2025
+TITAN-01,Pump Station,Drill Jumbo,Bearing Seizure,27.9,68.3,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Electrical Fault,4.4,3.4,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Power Transmission Failure,22.7,53.7,2024
+SUR-03,Drift / Ramp,Continuous Haulage,Hydraulic Burst,6.2,282.2,2025
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,4.6,72.7,2023
+SUR-03,Underground Haulageway,Continuous Haulage,Bearing Seizure,41.6,16.5,2024
+SUR-03,Underground Haulageway,Haulage LHD,Electrical Fault,11.2,15.6,2025
+ANDINA-02,Stope Production Face,Continuous Haulage,Bearing Seizure,14.0,52.8,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Power Transmission Failure,5.6,108.6,2024
+ANDINA-02,Stope Production Face,Mine Fan,Electrical Fault,8.7,41.4,2025
+TITAN-01,Pump Station,Haulage LHD,Power Transmission Failure,38.8,36.0,2024
+TITAN-01,Stope Production Face,Haulage LHD,Hydraulic Burst,20.3,8.4,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Bearing Seizure,55.0,60.3,2023
+ANDINA-02,Pump Station,Mine Fan,Bearing Seizure,16.1,58.2,2025
+TITAN-01,Underground Haulageway,Continuous Haulage,Power Transmission Failure,11.5,163.7,2024
+ANDINA-02,Stope Production Face,Continuous Haulage,Power Transmission Failure,14.3,17.1,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Hydraulic Burst,33.9,67.8,2024
+SUR-03,Drift / Ramp,Drill Jumbo,Electrical Fault,23.4,27.3,2025
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,60.3,39.2,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Bearing Seizure,26.1,81.4,2023
+SUR-03,Pump Station,Drill Jumbo,Hydraulic Burst,20.3,12.0,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,41.0,20.2,2023
+ANDINA-02,Underground Haulageway,Haulage LHD,Power Transmission Failure,74.7,71.2,2023
+TITAN-01,Drift / Ramp,Drill Jumbo,Power Transmission Failure,14.6,40.6,2023
+SUR-03,Stope Production Face,Drill Jumbo,Electrical Fault,10.9,4.7,2024
+TITAN-01,Shaft / Hoistway,Mine Fan,Hydraulic Burst,27.0,27.0,2024
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,20.6,42.4,2023
+SUR-03,Stope Production Face,Drill Jumbo,Hydraulic Burst,112.6,115.3,2025
+SUR-03,Pump Station,Drill Jumbo,Bearing Seizure,18.9,10.0,2025
+ANDINA-02,Underground Haulageway,Mine Fan,Hydraulic Burst,5.9,78.7,2024
+SUR-03,Drift / Ramp,Mine Fan,Hydraulic Burst,94.9,6.7,2025
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,48.5,13.3,2023
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,8.7,13.4,2025
+ANDINA-02,Drift / Ramp,Haulage LHD,Electrical Fault,60.4,100.8,2024
+SUR-03,Underground Haulageway,Continuous Haulage,Power Transmission Failure,14.0,10.7,2024
+TITAN-01,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,15.4,74.2,2023
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,60.8,29.7,2024
+TITAN-01,Drift / Ramp,Drill Jumbo,Bearing Seizure,22.1,336.1,2024
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,7.6,87.7,2024
+SUR-03,Underground Haulageway,Slurry Pump,Electrical Fault,15.1,64.6,2025
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,34.7,98.2,2024
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,8.6,48.2,2025
+SUR-03,Underground Haulageway,Mine Fan,Electrical Fault,25.4,89.1,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,32.5,14.5,2024
+TITAN-01,Pump Station,Slurry Pump,Electrical Fault,14.1,4.9,2025
+SUR-03,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,32.4,45.9,2025
+TITAN-01,Pump Station,Haulage LHD,Electrical Fault,55.7,27.4,2023
+TITAN-01,Underground Haulageway,Slurry Pump,Hydraulic Burst,19.3,26.7,2023
+ANDINA-02,Drift / Ramp,Continuous Haulage,Hydraulic Burst,15.6,35.9,2025
+TITAN-01,Stope Production Face,Mine Fan,Hydraulic Burst,10.9,21.5,2024
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,26.2,47.2,2023
+TITAN-01,Drift / Ramp,Continuous Haulage,Power Transmission Failure,54.9,1.5,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Bearing Seizure,13.4,168.1,2025
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,16.1,124.1,2024
+SUR-03,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,16.5,131.4,2025
+ANDINA-02,Drift / Ramp,Drill Jumbo,Power Transmission Failure,23.7,21.8,2023
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,10.2,36.4,2024
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Bearing Seizure,45.5,147.9,2025
+SUR-03,Drift / Ramp,Haulage LHD,Bearing Seizure,12.4,111.7,2025
+ANDINA-02,Shaft / Hoistway,Continuous Haulage,Power Transmission Failure,33.3,75.0,2024
+ANDINA-02,Pump Station,Haulage LHD,Power Transmission Failure,21.3,25.1,2024
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,25.2,39.9,2024
+SUR-03,Pump Station,Slurry Pump,Hydraulic Burst,8.8,75.6,2023
+ANDINA-02,Underground Haulageway,Continuous Haulage,Hydraulic Burst,35.9,15.3,2023
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Electrical Fault,9.0,47.3,2025
+TITAN-01,Stope Production Face,Mine Fan,Bearing Seizure,6.9,84.5,2025
+SUR-03,Shaft / Hoistway,Drill Jumbo,Power Transmission Failure,23.0,59.0,2024
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,33.7,31.3,2025
+SUR-03,Drift / Ramp,Haulage LHD,Hydraulic Burst,5.2,42.2,2025
+ANDINA-02,Underground Haulageway,Slurry Pump,Hydraulic Burst,5.7,215.1,2024
+ANDINA-02,Shaft / Hoistway,Haulage LHD,Bearing Seizure,43.0,44.2,2023
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,43.7,73.9,2023
+TITAN-01,Pump Station,Drill Jumbo,Power Transmission Failure,10.8,62.2,2023
+TITAN-01,Drift / Ramp,Slurry Pump,Electrical Fault,26.9,58.0,2025
+TITAN-01,Underground Haulageway,Mine Fan,Bearing Seizure,18.1,60.5,2024
+SUR-03,Underground Haulageway,Mine Fan,Power Transmission Failure,28.0,29.1,2023
+SUR-03,Pump Station,Slurry Pump,Power Transmission Failure,51.7,30.9,2025
+TITAN-01,Stope Production Face,Slurry Pump,Hydraulic Burst,6.0,30.3,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,40.1,1.6,2023
+ANDINA-02,Drift / Ramp,Slurry Pump,Bearing Seizure,20.3,13.2,2023
+ANDINA-02,Pump Station,Mine Fan,Power Transmission Failure,23.9,8.1,2024
+ANDINA-02,Pump Station,Slurry Pump,Electrical Fault,29.5,104.4,2025
+TITAN-01,Stope Production Face,Haulage LHD,Power Transmission Failure,65.4,15.4,2025
+SUR-03,Stope Production Face,Haulage LHD,Power Transmission Failure,5.4,7.2,2023
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,4.7,6.1,2024
+SUR-03,Drift / Ramp,Haulage LHD,Power Transmission Failure,8.7,57.8,2025
+ANDINA-02,Drift / Ramp,Continuous Haulage,Power Transmission Failure,107.2,0.3,2024
+TITAN-01,Pump Station,Slurry Pump,Hydraulic Burst,34.1,30.6,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,26.9,6.1,2023
+SUR-03,Drift / Ramp,Slurry Pump,Hydraulic Burst,5.2,91.0,2024
+ANDINA-02,Underground Haulageway,Continuous Haulage,Bearing Seizure,54.7,152.7,2024
+TITAN-01,Underground Haulageway,Haulage LHD,Electrical Fault,44.2,153.0,2024
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,30.2,28.0,2025
+TITAN-01,Underground Haulageway,Mine Fan,Electrical Fault,13.9,49.6,2023
+ANDINA-02,Stope Production Face,Mine Fan,Bearing Seizure,5.8,43.9,2023
+TITAN-01,Stope Production Face,Slurry Pump,Bearing Seizure,24.8,20.7,2024
+ANDINA-02,Shaft / Hoistway,Slurry Pump,Bearing Seizure,34.5,28.2,2024
+ANDINA-02,Pump Station,Drill Jumbo,Electrical Fault,6.4,3.2,2025
+ANDINA-02,Shaft / Hoistway,Drill Jumbo,Bearing Seizure,28.1,76.2,2023
+SUR-03,Stope Production Face,Mine Fan,Power Transmission Failure,12.1,13.2,2025
+TITAN-01,Shaft / Hoistway,Haulage LHD,Hydraulic Burst,38.7,29.6,2023
+TITAN-01,Pump Station,Continuous Haulage,Electrical Fault,22.6,31.4,2025
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,7.3,39.5,2024
+ANDINA-02,Underground Haulageway,Drill Jumbo,Power Transmission Failure,21.9,81.7,2025
+TITAN-01,Drift / Ramp,Haulage LHD,Bearing Seizure,16.1,56.5,2024
+ANDINA-02,Underground Haulageway,Haulage LHD,Hydraulic Burst,8.8,52.2,2023
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,48.2,35.9,2023
+SUR-03,Stope Production Face,Continuous Haulage,Power Transmission Failure,4.3,4.8,2024
+ANDINA-02,Stope Production Face,Haulage LHD,Hydraulic Burst,13.0,24.7,2023
+TITAN-01,Underground Haulageway,Drill Jumbo,Electrical Fault,4.3,151.4,2025
+ANDINA-02,Pump Station,Drill Jumbo,Hydraulic Burst,6.4,259.9,2024
+TITAN-01,Stope Production Face,Mine Fan,Electrical Fault,12.5,62.9,2023
+TITAN-01,Pump Station,Haulage LHD,Bearing Seizure,5.3,12.4,2025
+ANDINA-02,Stope Production Face,Slurry Pump,Electrical Fault,25.8,5.2,2025
+SUR-03,Pump Station,Continuous Haulage,Bearing Seizure,6.2,25.7,2023
+TITAN-01,Shaft / Hoistway,Slurry Pump,Hydraulic Burst,33.0,93.2,2023
+TITAN-01,Pump Station,Drill Jumbo,Bearing Seizure,5.3,61.4,2025
+TITAN-01,Pump Station,Slurry Pump,Power Transmission Failure,5.5,103.4,2024
+SUR-03,Underground Haulageway,Drill Jumbo,Bearing Seizure,12.7,45.9,2023
+SUR-03,Shaft / Hoistway,Drill Jumbo,Electrical Fault,58.5,6.7,2023
+ANDINA-02,Drift / Ramp,Drill Jumbo,Electrical Fault,28.6,5.9,2024
