@@ -85,34 +85,23 @@ def render_interpretation_and_explainability(
     operational_decision: str = ""
 ):
     """
-    Renders structured, clearly distinguished callouts:
-    PRIMERO la Interpretación (datos, métricas numéricas objetivas)
-    LUEGO la Explicabilidad (causalidad física minera, costos $14,500/h y decisión).
+    Renders structured, clean bordered callouts:
+    1. INTERPRETACIÓN: (Lectura directa de datos)
+    💡 2. EXPLICABILIDAD: (Causalidad minera, costos $14,500/h y decisión)
     """
-    st.markdown(f"""
-    <div style="background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 14px 18px; margin-top: 12px; margin-bottom: 22px; box-shadow: 0 1px 3px rgba(0,0,0,0.04);">
-        <!-- 1. INTERPRETACIÓN -->
-        <div style="background-color: #eff6ff; border-left: 4px solid #2563eb; border-radius: 4px; padding: 10px 14px; margin-bottom: 10px;">
-            <div style="font-weight: 700; color: #1e40af; font-size: 0.92rem; margin-bottom: 4px; display: flex; align-items: center; gap: 6px;">
-                <span>🔍</span> <span>1. INTERPRETACIÓN: {item_title}</span>
-            </div>
-            <div style="font-size: 0.88rem; color: #1e293b; line-height: 1.55;">
-                {interpretation_text}
-            </div>
-        </div>
-        
-        <!-- 2. EXPLICABILIDAD -->
-        <div style="background-color: #f0fdf4; border-left: 4px solid #16a34a; border-radius: 4px; padding: 10px 14px;">
-            <div style="font-weight: 700; color: #15803d; font-size: 0.92rem; margin-bottom: 4px; display: flex; align-items: center; gap: 6px;">
-                <span>💡</span> <span>2. EXPLICABILIDAD: {item_title}</span>
-            </div>
-            <div style="font-size: 0.88rem; color: #1e293b; line-height: 1.55; margin-bottom: 4px;">
-                {explainability_text}
-            </div>
-            {f'<div style="font-size: 0.86rem; color: #0f766e; font-weight: 600; line-height: 1.45; border-top: 1px dashed #bbf7d0; padding-top: 5px; margin-top: 5px;"><strong>🎯 Decisión Logística / Operacional:</strong> {operational_decision}</div>' if operational_decision else ''}
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
+    safe_interp = interpretation_text.replace("$", r"\$")
+    safe_expl = explainability_text.replace("$", r"\$")
+    
+    if operational_decision:
+        safe_dec = operational_decision.replace("$", r"\$")
+        full_expl = f"{safe_expl} 🎯 **Decisión Logística / Operacional:** {safe_dec}"
+    else:
+        full_expl = safe_expl
+
+    with st.container(border=True):
+        st.markdown(f"#### **1. INTERPRETACIÓN:**\n\n{safe_interp}")
+        st.markdown(f"#### **💡 2. EXPLICABILIDAD:**\n\n{full_expl}")
+
 
 
 def render_ml_view():
@@ -492,8 +481,8 @@ def render_ml_view():
 
         render_interpretation_and_explainability(
             item_title="Figura 4 — Mapas de Calor de las Matrices de Confusión en el Test Set (2,000 Casos)",
-            interpretation_text="Sobre las 2,000 muestras independientes de prueba, el modelo Hybrid Voting logra la mayor cantidad de Verdaderos Positivos (608 casos críticos detectados oportunamente) y minimiza los Falsos Negativos a 152 (frente a 176 en Logistic Regression y 166 en XGBoost). Asimismo mantiene un elevado conteo de Verdaderos Negativos (1,115 instancias de inventario seguro correctamente discriminadas) con 125 Falsos Positivos.",
-            explainability_text="En la gestión minera, un Falso Negativo (predecir stock suficiente cuando en realidad se produce quiebre) detiene la línea de producción a $14,500/h. Reducir los FN de 176 a 152 representa evitar 24 incidentes mayores de parada no programada, equivalente a más de $1.2 millones USD en pérdidas operativas evitadas. En contraste, un Falso Positivo solo genera un costo financiero de mantenimiento de inventario ($45 USD/mes), validando la asimetría de costos.",
+            interpretation_text="Sobre las 2,000 muestras independientes de prueba, el modelo Hybrid Voting logra la mayor cantidad de Verdaderos Positivos (608 casos críticos detectados oportunamente) y minimiza los Falsos Negativos a 152 (frente a 176 en Logistic Regression y 166 en XGBoost). Asimismo mantiene 1,115 Verdaderos Negativos con 125 Falsos Positivos.",
+            explainability_text="En minería de socavón, los costos de error son radicalmente asimétricos: un Falso Negativo (predecir stock suficiente cuando en realidad se produce quiebre) detiene un Scooptram LHD de 14 toneladas a $14,500/h. Reducir los FN de 176 a 152 representa evitar 24 incidentes mayores de parada no programada, equivalente a más de $1.2 millones USD en pérdidas operativas evitadas, mientras que un Falso Positivo solo genera un costo financiero de mantenimiento de inventario ($45 USD/mes).",
             operational_decision="La arquitectura ensamble demuestra ser la opción más conservadora y costo-eficiente para el control de inventario de repuestos de seguridad."
         )
 
