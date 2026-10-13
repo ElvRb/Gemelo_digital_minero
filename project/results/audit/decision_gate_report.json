@@ -1,0 +1,16 @@
+{
+  "total_records": 10000,
+  "selected_target": "failure_label",
+  "problem_type": "binary_classification",
+  "positive_class_ratio": 0.3105,
+  "cv_strategy": "StratifiedKFold(n_splits=5, shuffle=True, random_state=42)",
+  "leakage_risk_mitigated": true,
+  "statistical_tests": [
+    "Friedman",
+    "Wilcoxon+Holm",
+    "Nemenyi",
+    "Bootstrap_BCa_10000",
+    "Cliffs_Delta"
+  ],
+  "decision_gate_status": "APPROVED"
+}

@@ -1,0 +1,11 @@
+model_A,model_B,rank_A,rank_B,rank_diff,critical_difference,significant_nemenyi
+LogisticRegression,RandomForest,4.8,2.7,2.1,2.728,False
+LogisticRegression,XGBoost,4.8,1.6,3.2,2.728,True
+LogisticRegression,LightGBM,4.8,1.7,3.1,2.728,True
+LogisticRegression,SVM,4.8,4.2,0.6,2.728,False
+RandomForest,XGBoost,2.7,1.6,1.1,2.728,False
+RandomForest,LightGBM,2.7,1.7,1.0,2.728,False
+RandomForest,SVM,2.7,4.2,1.5,2.728,False
+XGBoost,LightGBM,1.6,1.7,0.1,2.728,False
+XGBoost,SVM,1.6,4.2,2.6,2.728,False
+LightGBM,SVM,1.7,4.2,2.5,2.728,False

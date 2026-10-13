@@ -1,0 +1,11 @@
+model_A,model_B,cliffs_delta,magnitude
+LogisticRegression,RandomForest,-1.0,Large
+LogisticRegression,XGBoost,-1.0,Large
+LogisticRegression,LightGBM,-1.0,Large
+LogisticRegression,SVM,-0.28,Small
+RandomForest,XGBoost,-0.76,Large
+RandomForest,LightGBM,-0.68,Large
+RandomForest,SVM,1.0,Large
+XGBoost,LightGBM,0.04,Negligible
+XGBoost,SVM,1.0,Large
+LightGBM,SVM,1.0,Large

@@ -1,0 +1,12 @@
+source_dataset,records
+Backorder_Prediction,3000
+B2B_Parts_Rec,2000
+MSHA_Accidents,1500
+FEMTO_Bearing,800
+XJTU_SY_Bearing,700
+MaintNorm,500
+MSHA_Mines,500
+Aviation_Spare_Parts,500
+Mining_Supply_Chain,300
+M5_Forecasting,195
+model_defined,5

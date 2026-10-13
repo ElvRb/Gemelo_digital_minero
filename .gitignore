@@ -75,3 +75,9 @@ desktop.ini
 *.sqlite
 *.sqlite3
 mining_digital_twin.db
+
+# Large raw datasets and signal dumps (>100MB / ~10GB raw data)
+DATASETS_MAESTRO/
+database/dataset/
+FEMTO_processed.csv
+XJTU_SY_processed.csv

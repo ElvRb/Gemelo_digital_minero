@@ -6,6 +6,7 @@ import {
 } from 'lucide-react';
 import Mine3DViewer from './Mine3DViewer';
 import EquipmentInspector from './EquipmentInspector';
+import mineRender from '../assets/mine_digital_twin_3d.jpg';
 
 export default function DigitalTwinView() {
   const [loading, setLoading] = useState(true);
@@ -79,21 +80,25 @@ export default function DigitalTwinView() {
   return (
     <div className="space-y-6">
       {/* Banner */}
-      <div className="bg-gradient-to-r from-slate-900 via-blue-950/40 to-slate-900 border border-blue-900/40 rounded-2xl p-6 shadow-xl relative overflow-hidden">
-        <div className="relative z-10">
+      <div className="bg-gradient-to-r from-slate-900 via-blue-950/50 to-slate-900 border border-blue-900/40 rounded-2xl p-6 shadow-xl relative overflow-hidden">
+        <div className="relative z-10 max-w-2xl">
           <span className="text-xs font-bold uppercase tracking-wider text-blue-400 bg-blue-500/10 px-2.5 py-1 rounded-full border border-blue-500/20">
             Espejo Físico-Digital en Tiempo Real
           </span>
           <h2 className="text-2xl font-black text-white mt-2 tracking-tight">
             ESTADO OPERACIONAL DEL GEMELO DIGITAL (DIGITAL TWIN CORE)
           </h2>
-          <p className="text-slate-300 text-sm max-w-3xl mt-1">
+          <p className="text-slate-300 text-sm mt-1">
             Topología 3D de la mina subterránea, monitoreo de 33 equipos en frentes de trabajo, despiece de componentes (BOM)
             e inventario de repuestos críticos. Punto de partida para ensayos What-If y simulación de disrupciones.
           </p>
         </div>
-        <div className="absolute right-6 top-1/2 -translate-y-1/2 opacity-10 hidden md:block pointer-events-none">
-          <Gauge className="w-48 h-48 text-blue-400" />
+        <div className="absolute right-0 top-0 bottom-0 w-full sm:w-2/3 md:w-1/2 overflow-hidden pointer-events-none opacity-30 lg:opacity-40">
+          <img 
+            src={mineRender} 
+            alt="Gemelo Digital 3D" 
+            className="w-full h-full object-cover object-right [mask-image:linear-gradient(to_right,transparent,black_40%)]" 
+          />
         </div>
       </div>
 

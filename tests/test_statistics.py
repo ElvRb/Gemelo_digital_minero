@@ -2,6 +2,8 @@
 Unit tests for all statistical validation methods:
 Friedman, Wilcoxon-Holm, Bootstrap 10k, KS test, Mann-Whitney U, Sobol, Hypothesis Evaluator.
 """
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import pytest
 import numpy as np
 from statistics.friedman import FriedmanTest

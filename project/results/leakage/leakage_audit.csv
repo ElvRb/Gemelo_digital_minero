@@ -1,0 +1,75 @@
+variable,leakage_risk_level,reason,action_taken
+source_dataset,METADATA,Metadatos de trazabilidad; preservados para auditoría de fuentes y generalización,PRESERVAR
+source_file,OVERFITTING_RISK,Identificador administrativo o texto bruto con riesgo de memorización espuria,ELIMINAR DE PREDICTORES
+record_id,OVERFITTING_RISK,Identificador administrativo o texto bruto con riesgo de memorización espuria,ELIMINAR DE PREDICTORES
+data_type,METADATA,Metadatos de trazabilidad; preservados para auditoría de fuentes y generalización,PRESERVAR
+source_quality,METADATA,Metadatos de trazabilidad; preservados para auditoría de fuentes y generalización,PRESERVAR
+conceptual_stage,METADATA,Metadatos de trazabilidad; preservados para auditoría de fuentes y generalización,PRESERVAR
+date,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+mine_id,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+mine_name,OVERFITTING_RISK,Identificador administrativo o texto bruto con riesgo de memorización espuria,ELIMINAR DE PREDICTORES
+location,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+state,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+country,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+equipment_id,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+equipment_type,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+equipment_category,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+criticality,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+component_id,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+component,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+component_type,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+part_id,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+part_name,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+part_type,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+demand_class,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+unit_cost,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+failure_mode,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+failure_type,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+severity,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+failure_label,Target,Columna objetivo a predecir,Separar en vector y
+degradation_index,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+rul,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+rms_horizontal,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+rms_vertical,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+kurtosis_horizontal,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+kurtosis_vertical,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+crest_factor,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+demand,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+forecast,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+inventory_initial,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+inventory_final,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+inventory_in_transit,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+safety_stock,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+reorder_point,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+stockout,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+backorder_qty,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+order_id,OVERFITTING_RISK,Identificador administrativo o texto bruto con riesgo de memorización espuria,ELIMINAR DE PREDICTORES
+order_date,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+supplier_id,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+supplier_name,OVERFITTING_RISK,Identificador administrativo o texto bruto con riesgo de memorización espuria,ELIMINAR DE PREDICTORES
+supplier_type,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+supplier_reliability,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+expected_delivery,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+actual_delivery,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+lead_time_days,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+transport_mode,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+transport_cost,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+delivery_delay_days,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+maintenance_action,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+maintenance_type,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+downtime_hours,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+availability,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+disruption_type,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+capacity_reduction,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+lead_time_multiplier,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+recovery_time_days,HIGH_LEAKAGE,Información posterior al evento (post-incident) o derivada directa del target,ELIMINAR DE PREDICTORES
+temporal_month,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+temporal_quarter,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+temporal_dayofweek,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+temporal_is_weekend,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+stock_buffer_ratio,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+pipeline_inventory_ratio,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+demand_forecast_error,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+rms_magnitude_2d,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+kurtosis_mean,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR
+supplier_unreliability,LOW_CLEAN,Variable observable ex-ante (pre-evento) válida para inferencia,PRESERVAR

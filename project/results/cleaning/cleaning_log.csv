@@ -1,0 +1,10 @@
+variable,transformation,cantidad_afectada,justificacion
+all_columns,standardize_snake_case,0,Garantizar consistencia lexicográfica y evitar fallos por espacios o mayúsculas
+equipment_id,standardize_string_nulls,2,Homogeneizar representaciones dispares de valores faltantes textuales a np.nan
+supplier_id,standardize_string_nulls,3,Homogeneizar representaciones dispares de valores faltantes textuales a np.nan
+supplier_name,standardize_string_nulls,3,Homogeneizar representaciones dispares de valores faltantes textuales a np.nan
+date,convert_to_datetime,0,Casteo riguroso a formato datetime ISO para habilitar ingeniería temporal
+order_date,convert_to_datetime,0,Casteo riguroso a formato datetime ISO para habilitar ingeniería temporal
+expected_delivery,convert_to_datetime,0,Casteo riguroso a formato datetime ISO para habilitar ingeniería temporal
+actual_delivery,convert_to_datetime,0,Casteo riguroso a formato datetime ISO para habilitar ingeniería temporal
+all_rows,drop_exact_duplicates,3201,Eliminación exclusiva de filas 100% redundantes en todos sus campos para evitar sesgo en el muestreo

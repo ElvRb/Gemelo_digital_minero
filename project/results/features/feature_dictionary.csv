@@ -1,0 +1,11 @@
+feature_name,formula,variables_used,category,justificacion
+temporal_month,date.dt.month,date,Temporal,Captura estacionalidad en la demanda de repuestos y condiciones climáticas en faenas mineras
+temporal_quarter,date.dt.quarter,date,Temporal,Captura ciclos presupuestarios y de mantenimiento mayor por trimestre
+temporal_dayofweek,date.dt.dayofweek,date,Temporal,Patrones operativos semanales y turnos de mantención preventiva
+temporal_is_weekend,"date.dt.dayofweek.isin([5, 6])",date,Temporal,Disponibilidad reducida de despachos de proveedores en fines de semana
+stock_buffer_ratio,"max(0, inventory_final) / (max(0, safety_stock) + 1)","inventory_final, safety_stock",Inventario,Mide la cobertura de seguridad del inventario ante quiebres inesperados
+pipeline_inventory_ratio,"max(0, inventory_in_transit) / (max(0, inventory_final) + 1)","inventory_in_transit, inventory_final",Inventario,
+demand_forecast_error,abs(demand - forecast),"demand, forecast",Demanda,Magnitud de la sorpresa o desvío de demanda no planificada
+rms_magnitude_2d,sqrt(rms_horizontal^2 + rms_vertical^2),"rms_horizontal, rms_vertical",Vibración,Energía vibracional combinada del componente rotativo
+kurtosis_mean,(kurtosis_horizontal + kurtosis_vertical) / 2,"kurtosis_horizontal, kurtosis_vertical",Vibración,Indicador temprano de impactos y discontinuidades en pistas de rodamiento
+supplier_unreliability,1.0 - supplier_reliability,supplier_reliability,Proveedor,Probabilidad histórica de incumplimiento o retraso del proveedor

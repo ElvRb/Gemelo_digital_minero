@@ -1,0 +1,34 @@
+variable,count,n_categories,top_category,top_frequency,top_percentage
+source_dataset,6799,11,B2B_Parts_Rec,1996,29.36
+source_file,6794,698,Accidents.txt,698,10.27
+record_id,6320,5355,CR871,26,0.41
+data_type,6799,6,real_industrial,2483,36.52
+source_quality,6799,7,anonymized_industrial,2483,36.52
+conceptual_stage,6794,10,PROCUREMENT_ORDERS,1996,29.38
+mine_id,1806,1083,AUS_MINE_ANON,487,26.97
+mine_name,1287,610,Australian Mining Operations (Anonymized),487,37.84
+location,6615,411,"PRONOSTIA Test Bench, FEMTO-ST",800,12.09
+state,5997,115,Besancon,800,13.34
+country,6794,19,USA,1393,20.5
+equipment_id,5058,1340,CAT_HEX_350,300,5.93
+equipment_type,5522,170,PRONOSTIA Bearing Degradation Testbed,800,14.49
+equipment_category,6599,9,Industrial Equipment,1996,30.25
+criticality,6794,6,Medium,2321,34.16
+component_id,4783,1879,BEARING_BALL_6200,800,16.73
+component,5302,177,Industrial Component Assembly,1996,37.65
+component_type,6099,7,Mechanical / Automation,1996,32.73
+part_id,5106,1782,BRG_FEMTO_6200,800,15.67
+part_name,5106,1782,Deep Groove Ball Bearing 6200,800,15.67
+part_type,5401,6,Commercial Spare,1996,36.96
+demand_class,5596,6,regular,1996,35.67
+failure_mode,2506,69,Normal Wear,749,29.89
+failure_type,2505,25,Fatigue Spalling / Wear,800,31.94
+severity,3643,23,Healthy,1375,37.74
+order_id,2296,1672,FDBF159800,15,0.65
+supplier_id,4536,644,SUP_BEARING_OEM,800,17.64
+supplier_name,4533,665,Bearing Precision Manufacturer,800,17.65
+supplier_type,6112,8,Industrial Equipment Supplier,1996,32.66
+transport_mode,4914,6,Road / Commercial Freight,1996,40.62
+maintenance_action,2685,49,condition_monitoring,749,27.9
+maintenance_type,2685,3,Condition-Based,1500,55.87
+disruption_type,114,11,stockout_event,74,64.91

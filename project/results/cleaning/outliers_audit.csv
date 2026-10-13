@@ -1,0 +1,5 @@
+variable,total_valid,iqr_outliers,mad_outliers,classification,action
+lead_time_days,4600,381,197,Valores extremos operacionales reales (colas pesadas logísticas/fallas),Conservados sin recorte arbitrario; robustez garantizada mediante modelos de árbol y escalado robusto
+downtime_hours,3624,405,1017,Valores extremos operacionales reales (colas pesadas logísticas/fallas),Conservados sin recorte arbitrario; robustez garantizada mediante modelos de árbol y escalado robusto
+unit_cost,3796,481,427,Valores extremos operacionales reales (colas pesadas logísticas/fallas),Conservados sin recorte arbitrario; robustez garantizada mediante modelos de árbol y escalado robusto
+demand,5106,641,2449,Valores extremos operacionales reales (colas pesadas logísticas/fallas),Conservados sin recorte arbitrario; robustez garantizada mediante modelos de árbol y escalado robusto
